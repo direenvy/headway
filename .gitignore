@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Node
+node_modules/
+.next/
+out/
+.vercel
+
+.env
+.env.local
+.DS_Store
+Thumbs.db
+data/
+!data/.gitkeep

@@ -1,0 +1,161 @@
+{
+ "origins": [
+  {
+   "origin": "2025-08-01",
+   "train_rows": 191674,
+   "fit_seconds": 10.8,
+   "seconds": 13.5
+  },
+  {
+   "origin": "2025-08-15",
+   "train_rows": 194026,
+   "fit_seconds": 16.3,
+   "seconds": 19.0
+  },
+  {
+   "origin": "2025-08-29",
+   "train_rows": 196378,
+   "fit_seconds": 11.3,
+   "seconds": 13.9
+  },
+  {
+   "origin": "2025-09-12",
+   "train_rows": 198730,
+   "fit_seconds": 11.8,
+   "seconds": 14.4
+  },
+  {
+   "origin": "2025-09-26",
+   "train_rows": 201082,
+   "fit_seconds": 10.4,
+   "seconds": 13.0
+  },
+  {
+   "origin": "2025-10-10",
+   "train_rows": 203434,
+   "fit_seconds": 10.4,
+   "seconds": 13.0
+  },
+  {
+   "origin": "2025-10-24",
+   "train_rows": 205786,
+   "fit_seconds": 10.3,
+   "seconds": 12.8
+  },
+  {
+   "origin": "2025-11-07",
+   "train_rows": 208138,
+   "fit_seconds": 10.4,
+   "seconds": 13.1
+  },
+  {
+   "origin": "2025-11-21",
+   "train_rows": 210490,
+   "fit_seconds": 10.7,
+   "seconds": 13.2
+  },
+  {
+   "origin": "2025-12-05",
+   "train_rows": 212842,
+   "fit_seconds": 10.4,
+   "seconds": 13.2
+  },
+  {
+   "origin": "2025-12-19",
+   "train_rows": 215194,
+   "fit_seconds": 10.6,
+   "seconds": 13.2
+  },
+  {
+   "origin": "2026-01-02",
+   "train_rows": 217546,
+   "fit_seconds": 10.4,
+   "seconds": 13.3
+  },
+  {
+   "origin": "2026-01-16",
+   "train_rows": 219898,
+   "fit_seconds": 11.0,
+   "seconds": 13.6
+  },
+  {
+   "origin": "2026-01-30",
+   "train_rows": 222250,
+   "fit_seconds": 11.1,
+   "seconds": 13.6
+  },
+  {
+   "origin": "2026-02-13",
+   "train_rows": 224602,
+   "fit_seconds": 11.3,
+   "seconds": 14.1
+  },
+  {
+   "origin": "2026-02-27",
+   "train_rows": 226954,
+   "fit_seconds": 11.3,
+   "seconds": 14.0
+  },
+  {
+   "origin": "2026-03-13",
+   "train_rows": 229306,
+   "fit_seconds": 12.0,
+   "seconds": 14.8
+  },
+  {
+   "origin": "2026-03-27",
+   "train_rows": 231658,
+   "fit_seconds": 11.4,
+   "seconds": 14.2
+  },
+  {
+   "origin": "2026-04-10",
+   "train_rows": 234010,
+   "fit_seconds": 11.7,
+   "seconds": 14.4
+  },
+  {
+   "origin": "2026-04-24",
+   "train_rows": 236362,
+   "fit_seconds": 11.7,
+   "seconds": 14.6
+  },
+  {
+   "origin": "2026-05-08",
+   "train_rows": 238714,
+   "fit_seconds": 11.7,
+   "seconds": 14.6
+  },
+  {
+   "origin": "2026-05-22",
+   "train_rows": 241066,
+   "fit_seconds": 11.9,
+   "seconds": 14.7
+  },
+  {
+   "origin": "2026-06-05",
+   "train_rows": 243418,
+   "fit_seconds": 12.2,
+   "seconds": 15.0
+  },
+  {
+   "origin": "2026-06-19",
+   "train_rows": 245770,
+   "fit_seconds": 12.0,
+   "seconds": 14.8
+  },
+  {
+   "origin": "2026-07-03",
+   "train_rows": 248122,
+   "fit_seconds": 12.0,
+   "seconds": 14.9
+  },
+  {
+   "origin": "2026-07-17",
+   "train_rows": 250474,
+   "fit_seconds": 11.9,
+   "seconds": 14.6
+  }
+ ],
+ "total_seconds": 377.0
+}
