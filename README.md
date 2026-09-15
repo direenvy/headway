@@ -1,6 +1,6 @@
 # Headway
 
-**Live:** [headway dashboard](https://headway-skymisty01.vercel.app) · data from [Turnstile](https://turnstile-tawny.vercel.app)
+Data from [Turnstile](https://turnstile-tawny.vercel.app) · live dashboard link to follow once deployed
 
 ![The dashboard: the dawn-arc hero and the fourteen-day forecast for one line](docs/hero.png)
 
