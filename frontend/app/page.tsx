@@ -1,9 +1,9 @@
 import DayTypeChart from "@/components/DayTypeChart";
 import ForecastChart from "@/components/ForecastChart";
-import HorizonChart from "@/components/HorizonChart";
-import { ByModeTable, Leaderboard, WorstDays } from "@/components/Tables";
+import Backtest from "@/components/Backtest";
+import { WorstDays } from "@/components/Tables";
 import WindowBrowser from "@/components/WindowBrowser";
-import { byDayType, byOutlier, dateName, dec, num, pct, series, summary } from "@/lib/data";
+import { byDayType, byOutlier, dateName, dec, num, pct, summary } from "@/lib/data";
 
 const REPO = "https://github.com/direenvy/headway";
 const TURNSTILE = "https://turnstile-tawny.vercel.app";
@@ -102,26 +102,8 @@ export default function Home() {
           </div>
         </Section>
 
-        <Section id="scores" kicker="52 weeks of backtest" title="How each model did" lede={<>MASE is mean absolute error divided by the in-sample error of the seasonal naive, so 1.00 means &ldquo;no better than last week&rdquo; and the number is comparable across a 190,000-trip line and a 3,000-trip one. Each line counts once.</>}>
-          <div className="card" style={{ padding: "var(--card-padding)" }}>
-            <Leaderboard />
-          </div>
-          <h3 className="heading-sm" style={{ marginTop: 48, marginBottom: 16 }}>
-            Error by day ahead
-          </h3>
-          <div className="card" style={{ padding: "var(--card-padding)" }}>
-            <HorizonChart />
-          </div>
-          <h3 className="heading-sm" style={{ marginTop: 48, marginBottom: 16 }}>
-            Every line
-          </h3>
-          <p className="body-sm secondary" style={{ marginBottom: 16, maxWidth: 680 }}>
-            MASE per line and model; the best in each row is set heavier. The last column is the naive&rsquo;s own daily error, the scale the row is measured in.
-            {series.some((s) => s.beats_naive === false) && <> LightGBM loses to the naive on {series.filter((s) => s.beats_naive === false).map((s) => s.label).join(", ")}.</>}
-          </p>
-          <div className="card" style={{ padding: "var(--card-padding)" }}>
-            <ByModeTable />
-          </div>
+        <Section id="scores" kicker="52 weeks of backtest" title="How each model did" lede={<>MASE is mean absolute error divided by the in-sample error of the seasonal naive, so 1.00 means &ldquo;no better than last week&rdquo; and the number is comparable across a 190,000-trip line and a 3,000-trip one. Each line counts once. Pick a month of the scored year, or rail or bus, and every figure below follows.</>}>
+          <Backtest />
         </Section>
 
         <Section id="loses" kicker="The honest part" title="Where it loses" lede={<>Split the scored days by what kind of day they were. Knowing the public-holiday calendar cuts LightGBM&rsquo;s holiday error by {pct(holidayGain, 0)}; the days nothing in the calendar explains &mdash; the ones Turnstile&rsquo;s outlier rule flags &mdash; stay at {pct(outlierWape("lgbm"), 0)} WAPE for every model.</>}>
