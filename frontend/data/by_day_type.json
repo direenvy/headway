@@ -1,0 +1,182 @@
+[
+{
+"model": "ets",
+"day_type": "holiday",
+"n": 271,
+"mae": 36963.1215,
+"wape": 0.4759,
+"bias": 0.4131,
+"mase": 3.5441
+},
+{
+"model": "ets",
+"day_type": "holiday-adjacent",
+"n": 326,
+"mae": 14669.9857,
+"wape": 0.1393,
+"bias": 0.0583,
+"mase": 1.7364
+},
+{
+"model": "ets",
+"day_type": "weekday",
+"n": 2682,
+"mae": 7368.3401,
+"wape": 0.0623,
+"bias": -0.0297,
+"mase": 0.9371
+},
+{
+"model": "ets",
+"day_type": "weekend",
+"n": 1089,
+"mae": 5421.9788,
+"wape": 0.071,
+"bias": 0.0208,
+"mase": 0.7792
+},
+{
+"model": "lgbm",
+"day_type": "holiday",
+"n": 271,
+"mae": 8909.5015,
+"wape": 0.1147,
+"bias": 0.0439,
+"mase": 1.3919
+},
+{
+"model": "lgbm",
+"day_type": "holiday-adjacent",
+"n": 326,
+"mae": 11340.9912,
+"wape": 0.1077,
+"bias": 0.0516,
+"mase": 1.4038
+},
+{
+"model": "lgbm",
+"day_type": "weekday",
+"n": 2682,
+"mae": 4150.9394,
+"wape": 0.0351,
+"bias": 0.0068,
+"mase": 0.6387
+},
+{
+"model": "lgbm",
+"day_type": "weekend",
+"n": 1089,
+"mae": 4995.4119,
+"wape": 0.0654,
+"bias": 0.0219,
+"mase": 0.7443
+},
+{
+"model": "lgbm_nohol",
+"day_type": "holiday",
+"n": 271,
+"mae": 38858.8601,
+"wape": 0.5003,
+"bias": 0.4305,
+"mase": 3.7233
+},
+{
+"model": "lgbm_nohol",
+"day_type": "holiday-adjacent",
+"n": 326,
+"mae": 14617.6697,
+"wape": 0.1388,
+"bias": 0.071,
+"mase": 1.7087
+},
+{
+"model": "lgbm_nohol",
+"day_type": "weekday",
+"n": 2682,
+"mae": 4614.983,
+"wape": 0.039,
+"bias": 0.005,
+"mase": 0.7011
+},
+{
+"model": "lgbm_nohol",
+"day_type": "weekend",
+"n": 1089,
+"mae": 5026.8079,
+"wape": 0.0658,
+"bias": 0.0265,
+"mase": 0.7497
+},
+{
+"model": "seasonal_naive",
+"day_type": "holiday",
+"n": 271,
+"mae": 40009.4649,
+"wape": 0.5152,
+"bias": 0.4061,
+"mase": 4.0292
+},
+{
+"model": "seasonal_naive",
+"day_type": "holiday-adjacent",
+"n": 326,
+"mae": 17266.8067,
+"wape": 0.1639,
+"bias": 0.0445,
+"mase": 2.1288
+},
+{
+"model": "seasonal_naive",
+"day_type": "weekday",
+"n": 2682,
+"mae": 7795.5723,
+"wape": 0.0659,
+"bias": -0.0222,
+"mase": 1.0468
+},
+{
+"model": "seasonal_naive",
+"day_type": "weekend",
+"n": 1089,
+"mae": 6386.8182,
+"wape": 0.0836,
+"bias": 0.0044,
+"mase": 1.0174
+},
+{
+"model": "weekday_mean",
+"day_type": "holiday",
+"n": 271,
+"mae": 36303.1301,
+"wape": 0.4674,
+"bias": 0.3814,
+"mase": 3.6715
+},
+{
+"model": "weekday_mean",
+"day_type": "holiday-adjacent",
+"n": 326,
+"mae": 13398.3052,
+"wape": 0.1272,
+"bias": 0.0426,
+"mase": 1.7963
+},
+{
+"model": "weekday_mean",
+"day_type": "weekday",
+"n": 2682,
+"mae": 7381.9435,
+"wape": 0.0624,
+"bias": -0.0338,
+"mase": 0.9727
+},
+{
+"model": "weekday_mean",
+"day_type": "weekend",
+"n": 1089,
+"mae": 5807.2225,
+"wape": 0.076,
+"bias": 0.0096,
+"mase": 0.9153
+}
+]

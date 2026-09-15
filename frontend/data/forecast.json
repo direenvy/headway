@@ -1,0 +1,7562 @@
+[
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-01",
+"h": 1,
+"model": "seasonal_naive",
+"yhat": 181076,
+"lo": 163311,
+"hi": 209795
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-02",
+"h": 2,
+"model": "seasonal_naive",
+"yhat": 152416,
+"lo": 131106,
+"hi": 181586
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-03",
+"h": 3,
+"model": "seasonal_naive",
+"yhat": 289607,
+"lo": 219931,
+"hi": 374575
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-04",
+"h": 4,
+"model": "seasonal_naive",
+"yhat": 304102,
+"lo": 256264,
+"hi": 371071
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-05",
+"h": 5,
+"model": "seasonal_naive",
+"yhat": 310848,
+"lo": 252715,
+"hi": 361637
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-06",
+"h": 6,
+"model": "seasonal_naive",
+"yhat": 306763,
+"lo": 248647,
+"hi": 342497
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-07",
+"h": 7,
+"model": "seasonal_naive",
+"yhat": 302283,
+"lo": 229337,
+"hi": 336622
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-08",
+"h": 8,
+"model": "seasonal_naive",
+"yhat": 181076,
+"lo": 159729,
+"hi": 211791
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-09",
+"h": 9,
+"model": "seasonal_naive",
+"yhat": 152416,
+"lo": 127425,
+"hi": 181625
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-10",
+"h": 10,
+"model": "seasonal_naive",
+"yhat": 289607,
+"lo": 243795,
+"hi": 357320
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-11",
+"h": 11,
+"model": "seasonal_naive",
+"yhat": 304102,
+"lo": 252785,
+"hi": 364388
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-12",
+"h": 12,
+"model": "seasonal_naive",
+"yhat": 310848,
+"lo": 255520,
+"hi": 376929
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-13",
+"h": 13,
+"model": "seasonal_naive",
+"yhat": 306763,
+"lo": 269845,
+"hi": 353803
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-14",
+"h": 14,
+"model": "seasonal_naive",
+"yhat": 302283,
+"lo": 263831,
+"hi": 341196
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-01",
+"h": 1,
+"model": "weekday_mean",
+"yhat": 174088,
+"lo": 156564,
+"hi": 194714
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-02",
+"h": 2,
+"model": "weekday_mean",
+"yhat": 150406,
+"lo": 129525,
+"hi": 176121
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-03",
+"h": 3,
+"model": "weekday_mean",
+"yhat": 289047,
+"lo": 231803,
+"hi": 338084
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-04",
+"h": 4,
+"model": "weekday_mean",
+"yhat": 304507,
+"lo": 231337,
+"hi": 351546
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-05",
+"h": 5,
+"model": "weekday_mean",
+"yhat": 308382,
+"lo": 258501,
+"hi": 353471
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-06",
+"h": 6,
+"model": "weekday_mean",
+"yhat": 303905,
+"lo": 251580,
+"hi": 341024
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-07",
+"h": 7,
+"model": "weekday_mean",
+"yhat": 298324,
+"lo": 235826,
+"hi": 341151
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-08",
+"h": 8,
+"model": "weekday_mean",
+"yhat": 174088,
+"lo": 153969,
+"hi": 198397
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-09",
+"h": 9,
+"model": "weekday_mean",
+"yhat": 150406,
+"lo": 128669,
+"hi": 171930
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-10",
+"h": 10,
+"model": "weekday_mean",
+"yhat": 289047,
+"lo": 230739,
+"hi": 336887
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-11",
+"h": 11,
+"model": "weekday_mean",
+"yhat": 304507,
+"lo": 250780,
+"hi": 345255
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-12",
+"h": 12,
+"model": "weekday_mean",
+"yhat": 308382,
+"lo": 270113,
+"hi": 352077
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-13",
+"h": 13,
+"model": "weekday_mean",
+"yhat": 303905,
+"lo": 273067,
+"hi": 341749
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-14",
+"h": 14,
+"model": "weekday_mean",
+"yhat": 298324,
+"lo": 271642,
+"hi": 347982
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-01",
+"h": 1,
+"model": "ets",
+"yhat": 181886,
+"lo": 166007,
+"hi": 196994
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-02",
+"h": 2,
+"model": "ets",
+"yhat": 157764,
+"lo": 140989,
+"hi": 175899
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-03",
+"h": 3,
+"model": "ets",
+"yhat": 282509,
+"lo": 230443,
+"hi": 325248
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-04",
+"h": 4,
+"model": "ets",
+"yhat": 304719,
+"lo": 256887,
+"hi": 351526
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-05",
+"h": 5,
+"model": "ets",
+"yhat": 312881,
+"lo": 268400,
+"hi": 349025
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-06",
+"h": 6,
+"model": "ets",
+"yhat": 308652,
+"lo": 252567,
+"hi": 349606
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-07",
+"h": 7,
+"model": "ets",
+"yhat": 297862,
+"lo": 235511,
+"hi": 337230
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-08",
+"h": 8,
+"model": "ets",
+"yhat": 181884,
+"lo": 155512,
+"hi": 202726
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-09",
+"h": 9,
+"model": "ets",
+"yhat": 157763,
+"lo": 137100,
+"hi": 179454
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-10",
+"h": 10,
+"model": "ets",
+"yhat": 282507,
+"lo": 224827,
+"hi": 326606
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-11",
+"h": 11,
+"model": "ets",
+"yhat": 304717,
+"lo": 255269,
+"hi": 347083
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-12",
+"h": 12,
+"model": "ets",
+"yhat": 312879,
+"lo": 263460,
+"hi": 358686
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-13",
+"h": 13,
+"model": "ets",
+"yhat": 308650,
+"lo": 270237,
+"hi": 350853
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-14",
+"h": 14,
+"model": "ets",
+"yhat": 297860,
+"lo": 266893,
+"hi": 341567
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm_nohol",
+"yhat": 176491,
+"lo": 161847,
+"hi": 191064
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm_nohol",
+"yhat": 152480,
+"lo": 136257,
+"hi": 171440
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm_nohol",
+"yhat": 289226,
+"lo": 227341,
+"hi": 310164
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm_nohol",
+"yhat": 304766,
+"lo": 250744,
+"hi": 327277
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm_nohol",
+"yhat": 310141,
+"lo": 266552,
+"hi": 335991
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm_nohol",
+"yhat": 305001,
+"lo": 247047,
+"hi": 328517
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm_nohol",
+"yhat": 302764,
+"lo": 235873,
+"hi": 326098
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm_nohol",
+"yhat": 177353,
+"lo": 154743,
+"hi": 193788
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm_nohol",
+"yhat": 153094,
+"lo": 132628,
+"hi": 167905
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm_nohol",
+"yhat": 291243,
+"lo": 242402,
+"hi": 309089
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm_nohol",
+"yhat": 307146,
+"lo": 261320,
+"hi": 328367
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm_nohol",
+"yhat": 310675,
+"lo": 269178,
+"hi": 346835
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm_nohol",
+"yhat": 305479,
+"lo": 272727,
+"hi": 330533
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm_nohol",
+"yhat": 302688,
+"lo": 272983,
+"hi": 337801
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm",
+"yhat": 175793,
+"lo": 161951,
+"hi": 188082
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm",
+"yhat": 151932,
+"lo": 136951,
+"hi": 165704
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm",
+"yhat": 292565,
+"lo": 257397,
+"hi": 315018
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm",
+"yhat": 305056,
+"lo": 258784,
+"hi": 322624
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm",
+"yhat": 312611,
+"lo": 277193,
+"hi": 334974
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm",
+"yhat": 306227,
+"lo": 262821,
+"hi": 333420
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm",
+"yhat": 302376,
+"lo": 263611,
+"hi": 328138
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm",
+"yhat": 176693,
+"lo": 153025,
+"hi": 194048
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm",
+"yhat": 152774,
+"lo": 132518,
+"hi": 167846
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm",
+"yhat": 294213,
+"lo": 264707,
+"hi": 309834
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm",
+"yhat": 306739,
+"lo": 273109,
+"hi": 327403
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm",
+"yhat": 310212,
+"lo": 274227,
+"hi": 335937
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm",
+"yhat": 303846,
+"lo": 275427,
+"hi": 326075
+},
+{
+"mode": "rail_lrt_kj",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm",
+"yhat": 298839,
+"lo": 275598,
+"hi": 323873
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-01",
+"h": 1,
+"model": "seasonal_naive",
+"yhat": 164119,
+"lo": 148017,
+"hi": 190148
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-02",
+"h": 2,
+"model": "seasonal_naive",
+"yhat": 139478,
+"lo": 119977,
+"hi": 166172
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-03",
+"h": 3,
+"model": "seasonal_naive",
+"yhat": 222940,
+"lo": 169303,
+"hi": 288349
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-04",
+"h": 4,
+"model": "seasonal_naive",
+"yhat": 227881,
+"lo": 192033,
+"hi": 278065
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-05",
+"h": 5,
+"model": "seasonal_naive",
+"yhat": 232268,
+"lo": 188831,
+"hi": 270218
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-06",
+"h": 6,
+"model": "seasonal_naive",
+"yhat": 232692,
+"lo": 188609,
+"hi": 259797
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-07",
+"h": 7,
+"model": "seasonal_naive",
+"yhat": 233242,
+"lo": 176957,
+"hi": 259738
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-08",
+"h": 8,
+"model": "seasonal_naive",
+"yhat": 164119,
+"lo": 144771,
+"hi": 191958
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-09",
+"h": 9,
+"model": "seasonal_naive",
+"yhat": 139478,
+"lo": 116609,
+"hi": 166208
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-10",
+"h": 10,
+"model": "seasonal_naive",
+"yhat": 222940,
+"lo": 187674,
+"hi": 275065
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-11",
+"h": 11,
+"model": "seasonal_naive",
+"yhat": 227881,
+"lo": 189426,
+"hi": 273057
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-12",
+"h": 12,
+"model": "seasonal_naive",
+"yhat": 232268,
+"lo": 190927,
+"hi": 281645
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-13",
+"h": 13,
+"model": "seasonal_naive",
+"yhat": 232692,
+"lo": 204688,
+"hi": 268374
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-14",
+"h": 14,
+"model": "seasonal_naive",
+"yhat": 233242,
+"lo": 203572,
+"hi": 263267
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-01",
+"h": 1,
+"model": "weekday_mean",
+"yhat": 153475,
+"lo": 138027,
+"hi": 171659
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-02",
+"h": 2,
+"model": "weekday_mean",
+"yhat": 135064,
+"lo": 116312,
+"hi": 158155
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-03",
+"h": 3,
+"model": "weekday_mean",
+"yhat": 223142,
+"lo": 178950,
+"hi": 260998
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-04",
+"h": 4,
+"model": "weekday_mean",
+"yhat": 228357,
+"lo": 173485,
+"hi": 263633
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-05",
+"h": 5,
+"model": "weekday_mean",
+"yhat": 230023,
+"lo": 192816,
+"hi": 263655
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-06",
+"h": 6,
+"model": "weekday_mean",
+"yhat": 228439,
+"lo": 189107,
+"hi": 256340
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-07",
+"h": 7,
+"model": "weekday_mean",
+"yhat": 229878,
+"lo": 181720,
+"hi": 262880
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-08",
+"h": 8,
+"model": "weekday_mean",
+"yhat": 153475,
+"lo": 135738,
+"hi": 174906
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-09",
+"h": 9,
+"model": "weekday_mean",
+"yhat": 135064,
+"lo": 115543,
+"hi": 154391
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-10",
+"h": 10,
+"model": "weekday_mean",
+"yhat": 223142,
+"lo": 178128,
+"hi": 260074
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-11",
+"h": 11,
+"model": "weekday_mean",
+"yhat": 228357,
+"lo": 188066,
+"hi": 258915
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-12",
+"h": 12,
+"model": "weekday_mean",
+"yhat": 230023,
+"lo": 201477,
+"hi": 262615
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-13",
+"h": 13,
+"model": "weekday_mean",
+"yhat": 228439,
+"lo": 205259,
+"hi": 256885
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-14",
+"h": 14,
+"model": "weekday_mean",
+"yhat": 229878,
+"lo": 209318,
+"hi": 268144
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-01",
+"h": 1,
+"model": "ets",
+"yhat": 170637,
+"lo": 155740,
+"hi": 184811
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-02",
+"h": 2,
+"model": "ets",
+"yhat": 147176,
+"lo": 131527,
+"hi": 164094
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-03",
+"h": 3,
+"model": "ets",
+"yhat": 219194,
+"lo": 178797,
+"hi": 252355
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-04",
+"h": 4,
+"model": "ets",
+"yhat": 229615,
+"lo": 193573,
+"hi": 264885
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-05",
+"h": 5,
+"model": "ets",
+"yhat": 233314,
+"lo": 200144,
+"hi": 260266
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-06",
+"h": 6,
+"model": "ets",
+"yhat": 231628,
+"lo": 189539,
+"hi": 262362
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-07",
+"h": 7,
+"model": "ets",
+"yhat": 231279,
+"lo": 182865,
+"hi": 261847
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-08",
+"h": 8,
+"model": "ets",
+"yhat": 170637,
+"lo": 145896,
+"hi": 190189
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-09",
+"h": 9,
+"model": "ets",
+"yhat": 147176,
+"lo": 127899,
+"hi": 167411
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-10",
+"h": 10,
+"model": "ets",
+"yhat": 219194,
+"lo": 174440,
+"hi": 253410
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-11",
+"h": 11,
+"model": "ets",
+"yhat": 229615,
+"lo": 192354,
+"hi": 261539
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-12",
+"h": 12,
+"model": "ets",
+"yhat": 233314,
+"lo": 196462,
+"hi": 267472
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-13",
+"h": 13,
+"model": "ets",
+"yhat": 231628,
+"lo": 202800,
+"hi": 263299
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-14",
+"h": 14,
+"model": "ets",
+"yhat": 231279,
+"lo": 207234,
+"hi": 265216
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm_nohol",
+"yhat": 155761,
+"lo": 142838,
+"hi": 168623
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm_nohol",
+"yhat": 139626,
+"lo": 124771,
+"hi": 156989
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm_nohol",
+"yhat": 223415,
+"lo": 175611,
+"hi": 239588
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm_nohol",
+"yhat": 229768,
+"lo": 189040,
+"hi": 246740
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm_nohol",
+"yhat": 233804,
+"lo": 200944,
+"hi": 253291
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm_nohol",
+"yhat": 232687,
+"lo": 188474,
+"hi": 250627
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm_nohol",
+"yhat": 233876,
+"lo": 182205,
+"hi": 251901
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm_nohol",
+"yhat": 156626,
+"lo": 136658,
+"hi": 171141
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm_nohol",
+"yhat": 139835,
+"lo": 121141,
+"hi": 153362
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm_nohol",
+"yhat": 224745,
+"lo": 187056,
+"hi": 238516
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm_nohol",
+"yhat": 231283,
+"lo": 196775,
+"hi": 247263
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm_nohol",
+"yhat": 233626,
+"lo": 202420,
+"hi": 260818
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm_nohol",
+"yhat": 232594,
+"lo": 207656,
+"hi": 251670
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm_nohol",
+"yhat": 233764,
+"lo": 210823,
+"hi": 260882
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm",
+"yhat": 157298,
+"lo": 144912,
+"hi": 168294
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm",
+"yhat": 138956,
+"lo": 125254,
+"hi": 151552
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm",
+"yhat": 226199,
+"lo": 199009,
+"hi": 243559
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm",
+"yhat": 229028,
+"lo": 194288,
+"hi": 242217
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm",
+"yhat": 233958,
+"lo": 207451,
+"hi": 250695
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm",
+"yhat": 232694,
+"lo": 199712,
+"hi": 253358
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm",
+"yhat": 234518,
+"lo": 204452,
+"hi": 254498
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm",
+"yhat": 158022,
+"lo": 136855,
+"hi": 173543
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm",
+"yhat": 139601,
+"lo": 121091,
+"hi": 153373
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm",
+"yhat": 227358,
+"lo": 204557,
+"hi": 239429
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm",
+"yhat": 230399,
+"lo": 205139,
+"hi": 245920
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm",
+"yhat": 231185,
+"lo": 204367,
+"hi": 250357
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm",
+"yhat": 230040,
+"lo": 208524,
+"hi": 246869
+},
+{
+"mode": "rail_lrt_ampang",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm",
+"yhat": 231547,
+"lo": 213539,
+"hi": 250943
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-01",
+"h": 1,
+"model": "seasonal_naive",
+"yhat": 240049,
+"lo": 216498,
+"hi": 278121
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-02",
+"h": 2,
+"model": "seasonal_naive",
+"yhat": 190500,
+"lo": 163866,
+"hi": 226959
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-03",
+"h": 3,
+"model": "seasonal_naive",
+"yhat": 293962,
+"lo": 223238,
+"hi": 380208
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-04",
+"h": 4,
+"model": "seasonal_naive",
+"yhat": 307158,
+"lo": 258839,
+"hi": 374800
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-05",
+"h": 5,
+"model": "seasonal_naive",
+"yhat": 312504,
+"lo": 254062,
+"hi": 363563
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-06",
+"h": 6,
+"model": "seasonal_naive",
+"yhat": 314910,
+"lo": 255251,
+"hi": 351593
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-07",
+"h": 7,
+"model": "seasonal_naive",
+"yhat": 316544,
+"lo": 240157,
+"hi": 352503
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-08",
+"h": 8,
+"model": "seasonal_naive",
+"yhat": 240049,
+"lo": 211749,
+"hi": 280767
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-09",
+"h": 9,
+"model": "seasonal_naive",
+"yhat": 190500,
+"lo": 159265,
+"hi": 227008
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-10",
+"h": 10,
+"model": "seasonal_naive",
+"yhat": 293962,
+"lo": 247461,
+"hi": 362693
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-11",
+"h": 11,
+"model": "seasonal_naive",
+"yhat": 307158,
+"lo": 255325,
+"hi": 368050
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-12",
+"h": 12,
+"model": "seasonal_naive",
+"yhat": 312504,
+"lo": 256882,
+"hi": 378937
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-13",
+"h": 13,
+"model": "seasonal_naive",
+"yhat": 314910,
+"lo": 277011,
+"hi": 363199
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-14",
+"h": 14,
+"model": "seasonal_naive",
+"yhat": 316544,
+"lo": 276278,
+"hi": 357292
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-01",
+"h": 1,
+"model": "weekday_mean",
+"yhat": 222263,
+"lo": 199891,
+"hi": 248598
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-02",
+"h": 2,
+"model": "weekday_mean",
+"yhat": 186729,
+"lo": 160805,
+"hi": 218654
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-03",
+"h": 3,
+"model": "weekday_mean",
+"yhat": 293797,
+"lo": 235612,
+"hi": 343640
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-04",
+"h": 4,
+"model": "weekday_mean",
+"yhat": 307741,
+"lo": 233794,
+"hi": 355280
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-05",
+"h": 5,
+"model": "weekday_mean",
+"yhat": 312372,
+"lo": 261846,
+"hi": 358044
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-06",
+"h": 6,
+"model": "weekday_mean",
+"yhat": 310474,
+"lo": 257018,
+"hi": 348395
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-07",
+"h": 7,
+"model": "weekday_mean",
+"yhat": 309621,
+"lo": 244757,
+"hi": 354071
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-08",
+"h": 8,
+"model": "weekday_mean",
+"yhat": 222263,
+"lo": 196577,
+"hi": 253300
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-09",
+"h": 9,
+"model": "weekday_mean",
+"yhat": 186729,
+"lo": 159742,
+"hi": 213450
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-10",
+"h": 10,
+"model": "weekday_mean",
+"yhat": 293797,
+"lo": 234531,
+"hi": 342423
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-11",
+"h": 11,
+"model": "weekday_mean",
+"yhat": 307741,
+"lo": 253444,
+"hi": 348922
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-12",
+"h": 12,
+"model": "weekday_mean",
+"yhat": 312372,
+"lo": 273608,
+"hi": 356632
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-13",
+"h": 13,
+"model": "weekday_mean",
+"yhat": 310474,
+"lo": 278970,
+"hi": 349136
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-14",
+"h": 14,
+"model": "weekday_mean",
+"yhat": 309621,
+"lo": 281929,
+"hi": 361160
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-01",
+"h": 1,
+"model": "ets",
+"yhat": 230385,
+"lo": 210273,
+"hi": 249522
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-02",
+"h": 2,
+"model": "ets",
+"yhat": 200154,
+"lo": 178872,
+"hi": 223162
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-03",
+"h": 3,
+"model": "ets",
+"yhat": 292617,
+"lo": 238689,
+"hi": 336886
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-04",
+"h": 4,
+"model": "ets",
+"yhat": 309087,
+"lo": 260570,
+"hi": 356565
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-05",
+"h": 5,
+"model": "ets",
+"yhat": 317052,
+"lo": 271978,
+"hi": 353678
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-06",
+"h": 6,
+"model": "ets",
+"yhat": 315284,
+"lo": 257994,
+"hi": 357118
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-07",
+"h": 7,
+"model": "ets",
+"yhat": 311097,
+"lo": 245976,
+"hi": 352215
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-08",
+"h": 8,
+"model": "ets",
+"yhat": 230384,
+"lo": 196981,
+"hi": 256783
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-09",
+"h": 9,
+"model": "ets",
+"yhat": 200154,
+"lo": 173938,
+"hi": 227672
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-10",
+"h": 10,
+"model": "ets",
+"yhat": 292617,
+"lo": 232872,
+"hi": 338294
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-11",
+"h": 11,
+"model": "ets",
+"yhat": 309087,
+"lo": 258929,
+"hi": 352060
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-12",
+"h": 12,
+"model": "ets",
+"yhat": 317051,
+"lo": 266973,
+"hi": 363469
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-13",
+"h": 13,
+"model": "ets",
+"yhat": 315283,
+"lo": 276044,
+"hi": 358393
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-14",
+"h": 14,
+"model": "ets",
+"yhat": 311097,
+"lo": 278754,
+"hi": 356746
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm_nohol",
+"yhat": 229096,
+"lo": 210088,
+"hi": 248013
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm_nohol",
+"yhat": 190285,
+"lo": 170041,
+"hi": 213947
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm_nohol",
+"yhat": 300251,
+"lo": 236007,
+"hi": 321987
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm_nohol",
+"yhat": 310483,
+"lo": 255447,
+"hi": 333416
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm_nohol",
+"yhat": 317415,
+"lo": 272804,
+"hi": 343870
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm_nohol",
+"yhat": 316395,
+"lo": 256276,
+"hi": 340789
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm_nohol",
+"yhat": 317414,
+"lo": 247286,
+"hi": 341877
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm_nohol",
+"yhat": 229329,
+"lo": 200093,
+"hi": 250581
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm_nohol",
+"yhat": 190792,
+"lo": 165287,
+"hi": 209250
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm_nohol",
+"yhat": 301708,
+"lo": 251112,
+"hi": 320195
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm_nohol",
+"yhat": 312364,
+"lo": 265759,
+"hi": 333946
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm_nohol",
+"yhat": 317222,
+"lo": 274851,
+"hi": 354145
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm_nohol",
+"yhat": 316136,
+"lo": 282241,
+"hi": 342064
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm_nohol",
+"yhat": 317258,
+"lo": 286123,
+"hi": 354060
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm",
+"yhat": 231490,
+"lo": 213262,
+"hi": 247672
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm",
+"yhat": 190920,
+"lo": 172095,
+"hi": 208226
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm",
+"yhat": 301284,
+"lo": 265068,
+"hi": 324406
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm",
+"yhat": 310196,
+"lo": 263144,
+"hi": 328060
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm",
+"yhat": 317485,
+"lo": 281515,
+"hi": 340197
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm",
+"yhat": 317065,
+"lo": 272123,
+"hi": 345220
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm",
+"yhat": 317160,
+"lo": 276499,
+"hi": 344181
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm",
+"yhat": 232383,
+"lo": 201255,
+"hi": 255208
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm",
+"yhat": 191666,
+"lo": 166253,
+"hi": 210574
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm",
+"yhat": 302437,
+"lo": 272107,
+"hi": 318495
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm",
+"yhat": 311811,
+"lo": 277625,
+"hi": 332817
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm",
+"yhat": 313715,
+"lo": 277324,
+"hi": 339731
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm",
+"yhat": 313022,
+"lo": 283745,
+"hi": 335922
+},
+{
+"mode": "rail_mrt_kajang",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm",
+"yhat": 312851,
+"lo": 288520,
+"hi": 339058
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-01",
+"h": 1,
+"model": "seasonal_naive",
+"yhat": 122005,
+"lo": 110035,
+"hi": 141355
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-02",
+"h": 2,
+"model": "seasonal_naive",
+"yhat": 99579,
+"lo": 85657,
+"hi": 118637
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-03",
+"h": 3,
+"model": "seasonal_naive",
+"yhat": 188910,
+"lo": 143460,
+"hi": 244335
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-04",
+"h": 4,
+"model": "seasonal_naive",
+"yhat": 193178,
+"lo": 162789,
+"hi": 235719
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-05",
+"h": 5,
+"model": "seasonal_naive",
+"yhat": 194310,
+"lo": 157971,
+"hi": 226058
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-06",
+"h": 6,
+"model": "seasonal_naive",
+"yhat": 195667,
+"lo": 158598,
+"hi": 218459
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-07",
+"h": 7,
+"model": "seasonal_naive",
+"yhat": 191033,
+"lo": 144934,
+"hi": 212734
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-08",
+"h": 8,
+"model": "seasonal_naive",
+"yhat": 122005,
+"lo": 107622,
+"hi": 142700
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-09",
+"h": 9,
+"model": "seasonal_naive",
+"yhat": 99579,
+"lo": 83252,
+"hi": 118663
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-10",
+"h": 10,
+"model": "seasonal_naive",
+"yhat": 188910,
+"lo": 159027,
+"hi": 233079
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-11",
+"h": 11,
+"model": "seasonal_naive",
+"yhat": 193178,
+"lo": 160579,
+"hi": 231474
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-12",
+"h": 12,
+"model": "seasonal_naive",
+"yhat": 194310,
+"lo": 159725,
+"hi": 235617
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-13",
+"h": 13,
+"model": "seasonal_naive",
+"yhat": 195667,
+"lo": 172119,
+"hi": 225671
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-14",
+"h": 14,
+"model": "seasonal_naive",
+"yhat": 191033,
+"lo": 166732,
+"hi": 215625
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-01",
+"h": 1,
+"model": "weekday_mean",
+"yhat": 114780,
+"lo": 103226,
+"hi": 128379
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-02",
+"h": 2,
+"model": "weekday_mean",
+"yhat": 97106,
+"lo": 83625,
+"hi": 113708
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-03",
+"h": 3,
+"model": "weekday_mean",
+"yhat": 187462,
+"lo": 150336,
+"hi": 219265
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-04",
+"h": 4,
+"model": "weekday_mean",
+"yhat": 193764,
+"lo": 147204,
+"hi": 223696
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-05",
+"h": 5,
+"model": "weekday_mean",
+"yhat": 195155,
+"lo": 163589,
+"hi": 223689
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-06",
+"h": 6,
+"model": "weekday_mean",
+"yhat": 193724,
+"lo": 160370,
+"hi": 217386
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-07",
+"h": 7,
+"model": "weekday_mean",
+"yhat": 189926,
+"lo": 150137,
+"hi": 217191
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-08",
+"h": 8,
+"model": "weekday_mean",
+"yhat": 114780,
+"lo": 101515,
+"hi": 130808
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-09",
+"h": 9,
+"model": "weekday_mean",
+"yhat": 97106,
+"lo": 83072,
+"hi": 111002
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-10",
+"h": 10,
+"model": "weekday_mean",
+"yhat": 187462,
+"lo": 149646,
+"hi": 218488
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-11",
+"h": 11,
+"model": "weekday_mean",
+"yhat": 193764,
+"lo": 159577,
+"hi": 219693
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-12",
+"h": 12,
+"model": "weekday_mean",
+"yhat": 195155,
+"lo": 170937,
+"hi": 222807
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-13",
+"h": 13,
+"model": "weekday_mean",
+"yhat": 193724,
+"lo": 174067,
+"hi": 217848
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-14",
+"h": 14,
+"model": "weekday_mean",
+"yhat": 189926,
+"lo": 172939,
+"hi": 221540
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-01",
+"h": 1,
+"model": "ets",
+"yhat": 119583,
+"lo": 109144,
+"hi": 129516
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-02",
+"h": 2,
+"model": "ets",
+"yhat": 103375,
+"lo": 92383,
+"hi": 115258
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-03",
+"h": 3,
+"model": "ets",
+"yhat": 182489,
+"lo": 148857,
+"hi": 210097
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-04",
+"h": 4,
+"model": "ets",
+"yhat": 193970,
+"lo": 163523,
+"hi": 223765
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-05",
+"h": 5,
+"model": "ets",
+"yhat": 198178,
+"lo": 170004,
+"hi": 221072
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-06",
+"h": 6,
+"model": "ets",
+"yhat": 196496,
+"lo": 160790,
+"hi": 222568
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-07",
+"h": 7,
+"model": "ets",
+"yhat": 189384,
+"lo": 149741,
+"hi": 214415
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-08",
+"h": 8,
+"model": "ets",
+"yhat": 119581,
+"lo": 102243,
+"hi": 133284
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-09",
+"h": 9,
+"model": "ets",
+"yhat": 103374,
+"lo": 89834,
+"hi": 117586
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-10",
+"h": 10,
+"model": "ets",
+"yhat": 182487,
+"lo": 145228,
+"hi": 210973
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-11",
+"h": 11,
+"model": "ets",
+"yhat": 193968,
+"lo": 162491,
+"hi": 220936
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-12",
+"h": 12,
+"model": "ets",
+"yhat": 198176,
+"lo": 166874,
+"hi": 227190
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-13",
+"h": 13,
+"model": "ets",
+"yhat": 196493,
+"lo": 172038,
+"hi": 223361
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-14",
+"h": 14,
+"model": "ets",
+"yhat": 189382,
+"lo": 169693,
+"hi": 217171
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm_nohol",
+"yhat": 116929,
+"lo": 107227,
+"hi": 126584
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm_nohol",
+"yhat": 97979,
+"lo": 87555,
+"hi": 110162
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm_nohol",
+"yhat": 188728,
+"lo": 148346,
+"hi": 202390
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm_nohol",
+"yhat": 194105,
+"lo": 159698,
+"hi": 208442
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm_nohol",
+"yhat": 196933,
+"lo": 169255,
+"hi": 213347
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm_nohol",
+"yhat": 196355,
+"lo": 159045,
+"hi": 211494
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm_nohol",
+"yhat": 191668,
+"lo": 149322,
+"hi": 206440
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm_nohol",
+"yhat": 118084,
+"lo": 103030,
+"hi": 129027
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm_nohol",
+"yhat": 98454,
+"lo": 85293,
+"hi": 107979
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm_nohol",
+"yhat": 190335,
+"lo": 158416,
+"hi": 201998
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm_nohol",
+"yhat": 195583,
+"lo": 166402,
+"hi": 209096
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm_nohol",
+"yhat": 197261,
+"lo": 170913,
+"hi": 220221
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm_nohol",
+"yhat": 196684,
+"lo": 175596,
+"hi": 212815
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm_nohol",
+"yhat": 191571,
+"lo": 172771,
+"hi": 213794
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm",
+"yhat": 119299,
+"lo": 109905,
+"hi": 127639
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm",
+"yhat": 98082,
+"lo": 88411,
+"hi": 106973
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm",
+"yhat": 189120,
+"lo": 166387,
+"hi": 203635
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm",
+"yhat": 194984,
+"lo": 165408,
+"hi": 206213
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm",
+"yhat": 196196,
+"lo": 173968,
+"hi": 210232
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm",
+"yhat": 195825,
+"lo": 168068,
+"hi": 213214
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm",
+"yhat": 192711,
+"lo": 168004,
+"hi": 209129
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm",
+"yhat": 119782,
+"lo": 103737,
+"hi": 131547
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm",
+"yhat": 98453,
+"lo": 85400,
+"hi": 108166
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm",
+"yhat": 189935,
+"lo": 170887,
+"hi": 200020
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm",
+"yhat": 195909,
+"lo": 174430,
+"hi": 209107
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm",
+"yhat": 194605,
+"lo": 172031,
+"hi": 210743
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm",
+"yhat": 194113,
+"lo": 175957,
+"hi": 208314
+},
+{
+"mode": "rail_mrt_pjy",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm",
+"yhat": 190723,
+"lo": 175890,
+"hi": 206700
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-01",
+"h": 1,
+"model": "seasonal_naive",
+"yhat": 65307,
+"lo": 58900,
+"hi": 75665
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-02",
+"h": 2,
+"model": "seasonal_naive",
+"yhat": 48771,
+"lo": 41952,
+"hi": 58105
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-03",
+"h": 3,
+"model": "seasonal_naive",
+"yhat": 59023,
+"lo": 44823,
+"hi": 76340
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-04",
+"h": 4,
+"model": "seasonal_naive",
+"yhat": 60830,
+"lo": 51261,
+"hi": 74226
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-05",
+"h": 5,
+"model": "seasonal_naive",
+"yhat": 62699,
+"lo": 50973,
+"hi": 72943
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-06",
+"h": 6,
+"model": "seasonal_naive",
+"yhat": 63606,
+"lo": 51556,
+"hi": 71015
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-07",
+"h": 7,
+"model": "seasonal_naive",
+"yhat": 65335,
+"lo": 49568,
+"hi": 72757
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-08",
+"h": 8,
+"model": "seasonal_naive",
+"yhat": 65307,
+"lo": 57608,
+"hi": 76385
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-09",
+"h": 9,
+"model": "seasonal_naive",
+"yhat": 48771,
+"lo": 40774,
+"hi": 58118
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-10",
+"h": 10,
+"model": "seasonal_naive",
+"yhat": 59023,
+"lo": 49686,
+"hi": 72823
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-11",
+"h": 11,
+"model": "seasonal_naive",
+"yhat": 60830,
+"lo": 50565,
+"hi": 72889
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-12",
+"h": 12,
+"model": "seasonal_naive",
+"yhat": 62699,
+"lo": 51539,
+"hi": 76028
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-13",
+"h": 13,
+"model": "seasonal_naive",
+"yhat": 63606,
+"lo": 55951,
+"hi": 73360
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-14",
+"h": 14,
+"model": "seasonal_naive",
+"yhat": 65335,
+"lo": 57024,
+"hi": 73746
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-01",
+"h": 1,
+"model": "weekday_mean",
+"yhat": 54681,
+"lo": 49177,
+"hi": 61160
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-02",
+"h": 2,
+"model": "weekday_mean",
+"yhat": 46185,
+"lo": 39773,
+"hi": 54081
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-03",
+"h": 3,
+"model": "weekday_mean",
+"yhat": 57446,
+"lo": 46069,
+"hi": 67192
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-04",
+"h": 4,
+"model": "weekday_mean",
+"yhat": 59164,
+"lo": 44948,
+"hi": 68304
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-05",
+"h": 5,
+"model": "weekday_mean",
+"yhat": 60002,
+"lo": 50296,
+"hi": 68774
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-06",
+"h": 6,
+"model": "weekday_mean",
+"yhat": 60167,
+"lo": 49808,
+"hi": 67516
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-07",
+"h": 7,
+"model": "weekday_mean",
+"yhat": 63602,
+"lo": 50278,
+"hi": 72733
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-08",
+"h": 8,
+"model": "weekday_mean",
+"yhat": 54681,
+"lo": 48362,
+"hi": 62317
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-09",
+"h": 9,
+"model": "weekday_mean",
+"yhat": 46185,
+"lo": 39510,
+"hi": 52794
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-10",
+"h": 10,
+"model": "weekday_mean",
+"yhat": 57446,
+"lo": 45858,
+"hi": 66954
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-11",
+"h": 11,
+"model": "weekday_mean",
+"yhat": 59164,
+"lo": 48726,
+"hi": 67082
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-12",
+"h": 12,
+"model": "weekday_mean",
+"yhat": 60002,
+"lo": 52555,
+"hi": 68503
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-13",
+"h": 13,
+"model": "weekday_mean",
+"yhat": 60167,
+"lo": 54062,
+"hi": 67660
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-14",
+"h": 14,
+"model": "weekday_mean",
+"yhat": 63602,
+"lo": 57914,
+"hi": 74189
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-01",
+"h": 1,
+"model": "ets",
+"yhat": 56934,
+"lo": 51964,
+"hi": 61663
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-02",
+"h": 2,
+"model": "ets",
+"yhat": 51053,
+"lo": 45624,
+"hi": 56921
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-03",
+"h": 3,
+"model": "ets",
+"yhat": 59916,
+"lo": 48874,
+"hi": 68981
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-04",
+"h": 4,
+"model": "ets",
+"yhat": 60916,
+"lo": 51354,
+"hi": 70273
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-05",
+"h": 5,
+"model": "ets",
+"yhat": 62265,
+"lo": 53413,
+"hi": 69458
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-06",
+"h": 6,
+"model": "ets",
+"yhat": 62504,
+"lo": 51147,
+"hi": 70798
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-07",
+"h": 7,
+"model": "ets",
+"yhat": 65421,
+"lo": 51726,
+"hi": 74068
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-08",
+"h": 8,
+"model": "ets",
+"yhat": 56934,
+"lo": 48679,
+"hi": 63458
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-09",
+"h": 9,
+"model": "ets",
+"yhat": 51053,
+"lo": 44366,
+"hi": 58072
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-10",
+"h": 10,
+"model": "ets",
+"yhat": 59916,
+"lo": 47683,
+"hi": 69269
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-11",
+"h": 11,
+"model": "ets",
+"yhat": 60916,
+"lo": 51030,
+"hi": 69385
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-12",
+"h": 12,
+"model": "ets",
+"yhat": 62265,
+"lo": 52430,
+"hi": 71381
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-13",
+"h": 13,
+"model": "ets",
+"yhat": 62504,
+"lo": 54725,
+"hi": 71051
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-14",
+"h": 14,
+"model": "ets",
+"yhat": 65421,
+"lo": 58619,
+"hi": 75021
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm_nohol",
+"yhat": 55138,
+"lo": 50563,
+"hi": 59691
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm_nohol",
+"yhat": 48848,
+"lo": 43651,
+"hi": 54922
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm_nohol",
+"yhat": 59860,
+"lo": 47052,
+"hi": 64194
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm_nohol",
+"yhat": 60562,
+"lo": 49827,
+"hi": 65036
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm_nohol",
+"yhat": 62328,
+"lo": 53568,
+"hi": 67523
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm_nohol",
+"yhat": 62317,
+"lo": 50476,
+"hi": 67121
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm_nohol",
+"yhat": 65134,
+"lo": 50743,
+"hi": 70154
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm_nohol",
+"yhat": 55026,
+"lo": 48011,
+"hi": 60126
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm_nohol",
+"yhat": 48798,
+"lo": 42274,
+"hi": 53519
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm_nohol",
+"yhat": 59884,
+"lo": 49842,
+"hi": 63554
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm_nohol",
+"yhat": 60707,
+"lo": 51649,
+"hi": 64901
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm_nohol",
+"yhat": 61999,
+"lo": 53718,
+"hi": 69216
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm_nohol",
+"yhat": 62069,
+"lo": 55414,
+"hi": 67160
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm_nohol",
+"yhat": 64875,
+"lo": 58508,
+"hi": 72401
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm",
+"yhat": 58057,
+"lo": 53485,
+"hi": 62115
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm",
+"yhat": 48396,
+"lo": 43624,
+"hi": 52783
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm",
+"yhat": 59666,
+"lo": 52493,
+"hi": 64245
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm",
+"yhat": 60647,
+"lo": 51447,
+"hi": 64139
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm",
+"yhat": 61701,
+"lo": 54711,
+"hi": 66115
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm",
+"yhat": 61955,
+"lo": 53173,
+"hi": 67457
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm",
+"yhat": 65532,
+"lo": 57130,
+"hi": 71115
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm",
+"yhat": 57998,
+"lo": 50229,
+"hi": 63694
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm",
+"yhat": 48396,
+"lo": 41979,
+"hi": 53170
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm",
+"yhat": 59705,
+"lo": 53717,
+"hi": 62875
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm",
+"yhat": 60766,
+"lo": 54104,
+"hi": 64860
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm",
+"yhat": 60985,
+"lo": 53910,
+"hi": 66042
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm",
+"yhat": 61170,
+"lo": 55449,
+"hi": 65646
+},
+{
+"mode": "rail_monorail",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm",
+"yhat": 64636,
+"lo": 59609,
+"hi": 70051
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-01",
+"h": 1,
+"model": "seasonal_naive",
+"yhat": 12230,
+"lo": 11030,
+"hi": 14170
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-02",
+"h": 2,
+"model": "seasonal_naive",
+"yhat": 10571,
+"lo": 9093,
+"hi": 12594
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-03",
+"h": 3,
+"model": "seasonal_naive",
+"yhat": 23035,
+"lo": 17493,
+"hi": 29794
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-04",
+"h": 4,
+"model": "seasonal_naive",
+"yhat": 23179,
+"lo": 19533,
+"hi": 28284
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-05",
+"h": 5,
+"model": "seasonal_naive",
+"yhat": 22126,
+"lo": 17988,
+"hi": 25741
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-06",
+"h": 6,
+"model": "seasonal_naive",
+"yhat": 23089,
+"lo": 18715,
+"hi": 25779
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-07",
+"h": 7,
+"model": "seasonal_naive",
+"yhat": 25518,
+"lo": 19360,
+"hi": 28417
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-08",
+"h": 8,
+"model": "seasonal_naive",
+"yhat": 12230,
+"lo": 10788,
+"hi": 14305
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-09",
+"h": 9,
+"model": "seasonal_naive",
+"yhat": 10571,
+"lo": 8838,
+"hi": 12597
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-10",
+"h": 10,
+"model": "seasonal_naive",
+"yhat": 23035,
+"lo": 19391,
+"hi": 28421
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-11",
+"h": 11,
+"model": "seasonal_naive",
+"yhat": 23179,
+"lo": 19267,
+"hi": 27774
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-12",
+"h": 12,
+"model": "seasonal_naive",
+"yhat": 22126,
+"lo": 18188,
+"hi": 26830
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-13",
+"h": 13,
+"model": "seasonal_naive",
+"yhat": 23089,
+"lo": 20310,
+"hi": 26630
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-14",
+"h": 14,
+"model": "seasonal_naive",
+"yhat": 25518,
+"lo": 22272,
+"hi": 28803
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-01",
+"h": 1,
+"model": "weekday_mean",
+"yhat": 12163,
+"lo": 10939,
+"hi": 13604
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-02",
+"h": 2,
+"model": "weekday_mean",
+"yhat": 11341,
+"lo": 9766,
+"hi": 13280
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-03",
+"h": 3,
+"model": "weekday_mean",
+"yhat": 23326,
+"lo": 18706,
+"hi": 27283
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-04",
+"h": 4,
+"model": "weekday_mean",
+"yhat": 23838,
+"lo": 18110,
+"hi": 27520
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-05",
+"h": 5,
+"model": "weekday_mean",
+"yhat": 23583,
+"lo": 19768,
+"hi": 27031
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-06",
+"h": 6,
+"model": "weekday_mean",
+"yhat": 22678,
+"lo": 18773,
+"hi": 25448
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-07",
+"h": 7,
+"model": "weekday_mean",
+"yhat": 24096,
+"lo": 19047,
+"hi": 27555
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-08",
+"h": 8,
+"model": "weekday_mean",
+"yhat": 12163,
+"lo": 10757,
+"hi": 13862
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-09",
+"h": 9,
+"model": "weekday_mean",
+"yhat": 11341,
+"lo": 9702,
+"hi": 12964
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-10",
+"h": 10,
+"model": "weekday_mean",
+"yhat": 23326,
+"lo": 18620,
+"hi": 27186
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-11",
+"h": 11,
+"model": "weekday_mean",
+"yhat": 23838,
+"lo": 19632,
+"hi": 27028
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-12",
+"h": 12,
+"model": "weekday_mean",
+"yhat": 23583,
+"lo": 20656,
+"hi": 26925
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-13",
+"h": 13,
+"model": "weekday_mean",
+"yhat": 22678,
+"lo": 20377,
+"hi": 25502
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-14",
+"h": 14,
+"model": "weekday_mean",
+"yhat": 24096,
+"lo": 21940,
+"hi": 28107
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-01",
+"h": 1,
+"model": "ets",
+"yhat": 12671,
+"lo": 11565,
+"hi": 13724
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-02",
+"h": 2,
+"model": "ets",
+"yhat": 12322,
+"lo": 11012,
+"hi": 13739
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-03",
+"h": 3,
+"model": "ets",
+"yhat": 23206,
+"lo": 18929,
+"hi": 26717
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-04",
+"h": 4,
+"model": "ets",
+"yhat": 23238,
+"lo": 19590,
+"hi": 26808
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-05",
+"h": 5,
+"model": "ets",
+"yhat": 21986,
+"lo": 18860,
+"hi": 24526
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-06",
+"h": 6,
+"model": "ets",
+"yhat": 23007,
+"lo": 18826,
+"hi": 26060
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-07",
+"h": 7,
+"model": "ets",
+"yhat": 23163,
+"lo": 18314,
+"hi": 26224
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-08",
+"h": 8,
+"model": "ets",
+"yhat": 12659,
+"lo": 10824,
+"hi": 14110
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-09",
+"h": 9,
+"model": "ets",
+"yhat": 12310,
+"lo": 10698,
+"hi": 14003
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-10",
+"h": 10,
+"model": "ets",
+"yhat": 23184,
+"lo": 18450,
+"hi": 26803
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-11",
+"h": 11,
+"model": "ets",
+"yhat": 23216,
+"lo": 19448,
+"hi": 26444
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-12",
+"h": 12,
+"model": "ets",
+"yhat": 21965,
+"lo": 18496,
+"hi": 25181
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-13",
+"h": 13,
+"model": "ets",
+"yhat": 22985,
+"lo": 20125,
+"hi": 26129
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-14",
+"h": 14,
+"model": "ets",
+"yhat": 23141,
+"lo": 20735,
+"hi": 26537
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm_nohol",
+"yhat": 12705,
+"lo": 11651,
+"hi": 13754
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm_nohol",
+"yhat": 10648,
+"lo": 9515,
+"hi": 11972
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm_nohol",
+"yhat": 22663,
+"lo": 17813,
+"hi": 24303
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm_nohol",
+"yhat": 23120,
+"lo": 19022,
+"hi": 24828
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm_nohol",
+"yhat": 23249,
+"lo": 19981,
+"hi": 25187
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm_nohol",
+"yhat": 22719,
+"lo": 18402,
+"hi": 24471
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm_nohol",
+"yhat": 23630,
+"lo": 18409,
+"hi": 25451
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm_nohol",
+"yhat": 12769,
+"lo": 11141,
+"hi": 13952
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm_nohol",
+"yhat": 10677,
+"lo": 9250,
+"hi": 11711
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm_nohol",
+"yhat": 22739,
+"lo": 18926,
+"hi": 24132
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm_nohol",
+"yhat": 23187,
+"lo": 19728,
+"hi": 24789
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm_nohol",
+"yhat": 23204,
+"lo": 20105,
+"hi": 25905
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm_nohol",
+"yhat": 22679,
+"lo": 20247,
+"hi": 24539
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm_nohol",
+"yhat": 23494,
+"lo": 21188,
+"hi": 26220
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm",
+"yhat": 12487,
+"lo": 11504,
+"hi": 13360
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm",
+"yhat": 10747,
+"lo": 9688,
+"hi": 11722
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm",
+"yhat": 23113,
+"lo": 20334,
+"hi": 24887
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm",
+"yhat": 23308,
+"lo": 19773,
+"hi": 24651
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm",
+"yhat": 23462,
+"lo": 20804,
+"hi": 25141
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm",
+"yhat": 22724,
+"lo": 19503,
+"hi": 24742
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm",
+"yhat": 24148,
+"lo": 21052,
+"hi": 26205
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm",
+"yhat": 12467,
+"lo": 10797,
+"hi": 13692
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm",
+"yhat": 10778,
+"lo": 9349,
+"hi": 11841
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm",
+"yhat": 23153,
+"lo": 20831,
+"hi": 24383
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm",
+"yhat": 23447,
+"lo": 20876,
+"hi": 25027
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm",
+"yhat": 23244,
+"lo": 20548,
+"hi": 25172
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm",
+"yhat": 22498,
+"lo": 20393,
+"hi": 24144
+},
+{
+"mode": "rail_komuter",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm",
+"yhat": 23771,
+"lo": 21922,
+"hi": 25762
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-01",
+"h": 1,
+"model": "seasonal_naive",
+"yhat": 19404,
+"lo": 17500,
+"hi": 22482
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-02",
+"h": 2,
+"model": "seasonal_naive",
+"yhat": 20934,
+"lo": 18007,
+"hi": 24941
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-03",
+"h": 3,
+"model": "seasonal_naive",
+"yhat": 17220,
+"lo": 13077,
+"hi": 22272
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-04",
+"h": 4,
+"model": "seasonal_naive",
+"yhat": 17123,
+"lo": 14429,
+"hi": 20894
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-05",
+"h": 5,
+"model": "seasonal_naive",
+"yhat": 15766,
+"lo": 12817,
+"hi": 18342
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-06",
+"h": 6,
+"model": "seasonal_naive",
+"yhat": 20025,
+"lo": 16231,
+"hi": 22358
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-07",
+"h": 7,
+"model": "seasonal_naive",
+"yhat": 22838,
+"lo": 17327,
+"hi": 25433
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-08",
+"h": 8,
+"model": "seasonal_naive",
+"yhat": 19404,
+"lo": 17116,
+"hi": 22696
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-09",
+"h": 9,
+"model": "seasonal_naive",
+"yhat": 20934,
+"lo": 17501,
+"hi": 24946
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-10",
+"h": 10,
+"model": "seasonal_naive",
+"yhat": 17220,
+"lo": 14496,
+"hi": 21246
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-11",
+"h": 11,
+"model": "seasonal_naive",
+"yhat": 17123,
+"lo": 14233,
+"hi": 20518
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-12",
+"h": 12,
+"model": "seasonal_naive",
+"yhat": 15766,
+"lo": 12960,
+"hi": 19118
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-13",
+"h": 13,
+"model": "seasonal_naive",
+"yhat": 20025,
+"lo": 17615,
+"hi": 23096
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-14",
+"h": 14,
+"model": "seasonal_naive",
+"yhat": 22838,
+"lo": 19933,
+"hi": 25778
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-01",
+"h": 1,
+"model": "weekday_mean",
+"yhat": 19135,
+"lo": 17209,
+"hi": 21402
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-02",
+"h": 2,
+"model": "weekday_mean",
+"yhat": 21410,
+"lo": 18437,
+"hi": 25070
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-03",
+"h": 3,
+"model": "weekday_mean",
+"yhat": 16970,
+"lo": 13609,
+"hi": 19849
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-04",
+"h": 4,
+"model": "weekday_mean",
+"yhat": 15146,
+"lo": 11506,
+"hi": 17485
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-05",
+"h": 5,
+"model": "weekday_mean",
+"yhat": 14680,
+"lo": 12306,
+"hi": 16827
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-06",
+"h": 6,
+"model": "weekday_mean",
+"yhat": 17905,
+"lo": 14822,
+"hi": 20092
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-07",
+"h": 7,
+"model": "weekday_mean",
+"yhat": 22006,
+"lo": 17395,
+"hi": 25165
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-08",
+"h": 8,
+"model": "weekday_mean",
+"yhat": 19135,
+"lo": 16923,
+"hi": 21807
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-09",
+"h": 9,
+"model": "weekday_mean",
+"yhat": 21410,
+"lo": 18315,
+"hi": 24474
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-10",
+"h": 10,
+"model": "weekday_mean",
+"yhat": 16970,
+"lo": 13547,
+"hi": 19779
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-11",
+"h": 11,
+"model": "weekday_mean",
+"yhat": 15146,
+"lo": 12473,
+"hi": 17172
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-12",
+"h": 12,
+"model": "weekday_mean",
+"yhat": 14680,
+"lo": 12859,
+"hi": 16761
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-13",
+"h": 13,
+"model": "weekday_mean",
+"yhat": 17905,
+"lo": 16088,
+"hi": 20134
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-14",
+"h": 14,
+"model": "weekday_mean",
+"yhat": 22006,
+"lo": 20037,
+"hi": 25669
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-01",
+"h": 1,
+"model": "ets",
+"yhat": 20320,
+"lo": 18546,
+"hi": 22008
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-02",
+"h": 2,
+"model": "ets",
+"yhat": 22176,
+"lo": 19818,
+"hi": 24725
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-03",
+"h": 3,
+"model": "ets",
+"yhat": 18621,
+"lo": 15189,
+"hi": 21438
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-04",
+"h": 4,
+"model": "ets",
+"yhat": 16526,
+"lo": 13931,
+"hi": 19064
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-05",
+"h": 5,
+"model": "ets",
+"yhat": 16438,
+"lo": 14101,
+"hi": 18337
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-06",
+"h": 6,
+"model": "ets",
+"yhat": 19762,
+"lo": 16171,
+"hi": 22385
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-07",
+"h": 7,
+"model": "ets",
+"yhat": 22742,
+"lo": 17981,
+"hi": 25748
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-08",
+"h": 8,
+"model": "ets",
+"yhat": 20320,
+"lo": 17374,
+"hi": 22648
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-09",
+"h": 9,
+"model": "ets",
+"yhat": 22176,
+"lo": 19271,
+"hi": 25225
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-10",
+"h": 10,
+"model": "ets",
+"yhat": 18621,
+"lo": 14819,
+"hi": 21528
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-11",
+"h": 11,
+"model": "ets",
+"yhat": 16526,
+"lo": 13844,
+"hi": 18823
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-12",
+"h": 12,
+"model": "ets",
+"yhat": 16438,
+"lo": 13841,
+"hi": 18844
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-13",
+"h": 13,
+"model": "ets",
+"yhat": 19762,
+"lo": 17303,
+"hi": 22465
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-14",
+"h": 14,
+"model": "ets",
+"yhat": 22742,
+"lo": 20377,
+"hi": 26079
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm_nohol",
+"yhat": 20284,
+"lo": 18601,
+"hi": 21959
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm_nohol",
+"yhat": 22029,
+"lo": 19685,
+"hi": 24768
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm_nohol",
+"yhat": 17553,
+"lo": 13797,
+"hi": 18823
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm_nohol",
+"yhat": 15570,
+"lo": 12810,
+"hi": 16720
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm_nohol",
+"yhat": 14921,
+"lo": 12824,
+"hi": 16165
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm_nohol",
+"yhat": 18617,
+"lo": 15079,
+"hi": 20053
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm_nohol",
+"yhat": 22203,
+"lo": 17298,
+"hi": 23915
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm_nohol",
+"yhat": 19943,
+"lo": 17400,
+"hi": 21791
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm_nohol",
+"yhat": 21857,
+"lo": 18935,
+"hi": 23972
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm_nohol",
+"yhat": 17498,
+"lo": 14563,
+"hi": 18570
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm_nohol",
+"yhat": 15541,
+"lo": 13222,
+"hi": 16614
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm_nohol",
+"yhat": 14860,
+"lo": 12875,
+"hi": 16590
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm_nohol",
+"yhat": 18575,
+"lo": 16583,
+"hi": 20098
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm_nohol",
+"yhat": 22181,
+"lo": 20004,
+"hi": 24754
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm",
+"yhat": 20113,
+"lo": 18529,
+"hi": 21519
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm",
+"yhat": 21977,
+"lo": 19809,
+"hi": 23969
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm",
+"yhat": 17671,
+"lo": 15547,
+"hi": 19027
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm",
+"yhat": 15577,
+"lo": 13214,
+"hi": 16474
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm",
+"yhat": 14898,
+"lo": 13210,
+"hi": 15964
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm",
+"yhat": 18621,
+"lo": 15982,
+"hi": 20275
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm",
+"yhat": 22387,
+"lo": 19516,
+"hi": 24294
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm",
+"yhat": 19908,
+"lo": 17241,
+"hi": 21864
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm",
+"yhat": 21938,
+"lo": 19029,
+"hi": 24103
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm",
+"yhat": 17708,
+"lo": 15932,
+"hi": 18648
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm",
+"yhat": 15603,
+"lo": 13892,
+"hi": 16654
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm",
+"yhat": 14615,
+"lo": 12919,
+"hi": 15827
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm",
+"yhat": 18266,
+"lo": 16558,
+"hi": 19603
+},
+{
+"mode": "rail_komuter_utara",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm",
+"yhat": 21969,
+"lo": 20260,
+"hi": 23809
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-01",
+"h": 1,
+"model": "seasonal_naive",
+"yhat": 20325,
+"lo": 18331,
+"hi": 23549
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-02",
+"h": 2,
+"model": "seasonal_naive",
+"yhat": 21123,
+"lo": 18170,
+"hi": 25166
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-03",
+"h": 3,
+"model": "seasonal_naive",
+"yhat": 17541,
+"lo": 13321,
+"hi": 22688
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-04",
+"h": 4,
+"model": "seasonal_naive",
+"yhat": 15246,
+"lo": 12848,
+"hi": 18604
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-05",
+"h": 5,
+"model": "seasonal_naive",
+"yhat": 15149,
+"lo": 12316,
+"hi": 17624
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-06",
+"h": 6,
+"model": "seasonal_naive",
+"yhat": 17403,
+"lo": 14106,
+"hi": 19430
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-07",
+"h": 7,
+"model": "seasonal_naive",
+"yhat": 22012,
+"lo": 16700,
+"hi": 24513
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-08",
+"h": 8,
+"model": "seasonal_naive",
+"yhat": 20325,
+"lo": 17929,
+"hi": 23773
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-09",
+"h": 9,
+"model": "seasonal_naive",
+"yhat": 21123,
+"lo": 17659,
+"hi": 25171
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-10",
+"h": 10,
+"model": "seasonal_naive",
+"yhat": 17541,
+"lo": 14766,
+"hi": 21642
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-11",
+"h": 11,
+"model": "seasonal_naive",
+"yhat": 15246,
+"lo": 12673,
+"hi": 18269
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-12",
+"h": 12,
+"model": "seasonal_naive",
+"yhat": 15149,
+"lo": 12452,
+"hi": 18370
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-13",
+"h": 13,
+"model": "seasonal_naive",
+"yhat": 17403,
+"lo": 15308,
+"hi": 20072
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-14",
+"h": 14,
+"model": "seasonal_naive",
+"yhat": 22012,
+"lo": 19212,
+"hi": 24846
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-01",
+"h": 1,
+"model": "weekday_mean",
+"yhat": 20506,
+"lo": 18442,
+"hi": 22936
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-02",
+"h": 2,
+"model": "weekday_mean",
+"yhat": 21639,
+"lo": 18635,
+"hi": 25339
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-03",
+"h": 3,
+"model": "weekday_mean",
+"yhat": 17485,
+"lo": 14022,
+"hi": 20451
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-04",
+"h": 4,
+"model": "weekday_mean",
+"yhat": 15191,
+"lo": 11540,
+"hi": 17538
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-05",
+"h": 5,
+"model": "weekday_mean",
+"yhat": 15362,
+"lo": 12877,
+"hi": 17608
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-06",
+"h": 6,
+"model": "weekday_mean",
+"yhat": 17220,
+"lo": 14255,
+"hi": 19323
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-07",
+"h": 7,
+"model": "weekday_mean",
+"yhat": 21723,
+"lo": 17172,
+"hi": 24842
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-08",
+"h": 8,
+"model": "weekday_mean",
+"yhat": 20506,
+"lo": 18136,
+"hi": 23370
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-09",
+"h": 9,
+"model": "weekday_mean",
+"yhat": 21639,
+"lo": 18512,
+"hi": 24736
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-10",
+"h": 10,
+"model": "weekday_mean",
+"yhat": 17485,
+"lo": 13958,
+"hi": 20379
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-11",
+"h": 11,
+"model": "weekday_mean",
+"yhat": 15191,
+"lo": 12510,
+"hi": 17224
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-12",
+"h": 12,
+"model": "weekday_mean",
+"yhat": 15362,
+"lo": 13455,
+"hi": 17539
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-13",
+"h": 13,
+"model": "weekday_mean",
+"yhat": 17220,
+"lo": 15472,
+"hi": 19364
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-14",
+"h": 14,
+"model": "weekday_mean",
+"yhat": 21723,
+"lo": 19780,
+"hi": 25339
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-01",
+"h": 1,
+"model": "ets",
+"yhat": 20622,
+"lo": 18821,
+"hi": 22335
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-02",
+"h": 2,
+"model": "ets",
+"yhat": 21670,
+"lo": 19366,
+"hi": 24161
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-03",
+"h": 3,
+"model": "ets",
+"yhat": 17597,
+"lo": 14354,
+"hi": 20259
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-04",
+"h": 4,
+"model": "ets",
+"yhat": 15693,
+"lo": 13230,
+"hi": 18104
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-05",
+"h": 5,
+"model": "ets",
+"yhat": 16008,
+"lo": 13732,
+"hi": 17857
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-06",
+"h": 6,
+"model": "ets",
+"yhat": 18085,
+"lo": 14799,
+"hi": 20485
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-07",
+"h": 7,
+"model": "ets",
+"yhat": 22047,
+"lo": 17432,
+"hi": 24961
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-08",
+"h": 8,
+"model": "ets",
+"yhat": 20685,
+"lo": 17686,
+"hi": 23056
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-09",
+"h": 9,
+"model": "ets",
+"yhat": 21737,
+"lo": 18889,
+"hi": 24725
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-10",
+"h": 10,
+"model": "ets",
+"yhat": 17651,
+"lo": 14047,
+"hi": 20406
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-11",
+"h": 11,
+"model": "ets",
+"yhat": 15741,
+"lo": 13186,
+"hi": 17930
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-12",
+"h": 12,
+"model": "ets",
+"yhat": 16056,
+"lo": 13520,
+"hi": 18407
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-13",
+"h": 13,
+"model": "ets",
+"yhat": 18140,
+"lo": 15882,
+"hi": 20620
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-14",
+"h": 14,
+"model": "ets",
+"yhat": 22113,
+"lo": 19814,
+"hi": 25358
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm_nohol",
+"yhat": 20874,
+"lo": 19142,
+"hi": 22598
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm_nohol",
+"yhat": 22020,
+"lo": 19677,
+"hi": 24758
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm_nohol",
+"yhat": 18189,
+"lo": 14297,
+"hi": 19506
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm_nohol",
+"yhat": 15734,
+"lo": 12945,
+"hi": 16896
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm_nohol",
+"yhat": 15485,
+"lo": 13308,
+"hi": 16775
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm_nohol",
+"yhat": 18494,
+"lo": 14980,
+"hi": 19920
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm_nohol",
+"yhat": 22184,
+"lo": 17283,
+"hi": 23894
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm_nohol",
+"yhat": 20768,
+"lo": 18121,
+"hi": 22693
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm_nohol",
+"yhat": 22085,
+"lo": 19132,
+"hi": 24221
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm_nohol",
+"yhat": 18282,
+"lo": 15216,
+"hi": 19403
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm_nohol",
+"yhat": 15836,
+"lo": 13473,
+"hi": 16931
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm_nohol",
+"yhat": 15501,
+"lo": 13430,
+"hi": 17305
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm_nohol",
+"yhat": 18500,
+"lo": 16516,
+"hi": 20017
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm_nohol",
+"yhat": 22198,
+"lo": 20019,
+"hi": 24773
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm",
+"yhat": 20956,
+"lo": 19306,
+"hi": 22421
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm",
+"yhat": 21959,
+"lo": 19794,
+"hi": 23950
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm",
+"yhat": 17988,
+"lo": 15825,
+"hi": 19368
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm",
+"yhat": 15365,
+"lo": 13034,
+"hi": 16250
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm",
+"yhat": 15274,
+"lo": 13543,
+"hi": 16366
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm",
+"yhat": 17918,
+"lo": 15378,
+"hi": 19509
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm",
+"yhat": 22228,
+"lo": 19378,
+"hi": 24122
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm",
+"yhat": 20898,
+"lo": 18098,
+"hi": 22950
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm",
+"yhat": 21934,
+"lo": 19026,
+"hi": 24098
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm",
+"yhat": 18084,
+"lo": 16271,
+"hi": 19045
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm",
+"yhat": 15429,
+"lo": 13738,
+"hi": 16469
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm",
+"yhat": 15120,
+"lo": 13366,
+"hi": 16374
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm",
+"yhat": 17715,
+"lo": 16058,
+"hi": 19011
+},
+{
+"mode": "rail_ets",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm",
+"yhat": 22002,
+"lo": 20291,
+"hi": 23846
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-01",
+"h": 1,
+"model": "seasonal_naive",
+"yhat": 4213,
+"lo": 3800,
+"hi": 4881
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-02",
+"h": 2,
+"model": "seasonal_naive",
+"yhat": 3394,
+"lo": 2919,
+"hi": 4044
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-03",
+"h": 3,
+"model": "seasonal_naive",
+"yhat": 2011,
+"lo": 1527,
+"hi": 2601
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-04",
+"h": 4,
+"model": "seasonal_naive",
+"yhat": 1854,
+"lo": 1562,
+"hi": 2263
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-05",
+"h": 5,
+"model": "seasonal_naive",
+"yhat": 2111,
+"lo": 1716,
+"hi": 2456
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-06",
+"h": 6,
+"model": "seasonal_naive",
+"yhat": 3754,
+"lo": 3043,
+"hi": 4191
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-07",
+"h": 7,
+"model": "seasonal_naive",
+"yhat": 4923,
+"lo": 3735,
+"hi": 5482
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-08",
+"h": 8,
+"model": "seasonal_naive",
+"yhat": 4213,
+"lo": 3716,
+"hi": 4928
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-09",
+"h": 9,
+"model": "seasonal_naive",
+"yhat": 3394,
+"lo": 2837,
+"hi": 4045
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-10",
+"h": 10,
+"model": "seasonal_naive",
+"yhat": 2011,
+"lo": 1693,
+"hi": 2481
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-11",
+"h": 11,
+"model": "seasonal_naive",
+"yhat": 1854,
+"lo": 1541,
+"hi": 2222
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-12",
+"h": 12,
+"model": "seasonal_naive",
+"yhat": 2111,
+"lo": 1735,
+"hi": 2560
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-13",
+"h": 13,
+"model": "seasonal_naive",
+"yhat": 3754,
+"lo": 3302,
+"hi": 4330
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-14",
+"h": 14,
+"model": "seasonal_naive",
+"yhat": 4923,
+"lo": 4297,
+"hi": 5557
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-01",
+"h": 1,
+"model": "weekday_mean",
+"yhat": 4326,
+"lo": 3891,
+"hi": 4839
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-02",
+"h": 2,
+"model": "weekday_mean",
+"yhat": 3456,
+"lo": 2976,
+"hi": 4047
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-03",
+"h": 3,
+"model": "weekday_mean",
+"yhat": 1943,
+"lo": 1558,
+"hi": 2273
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-04",
+"h": 4,
+"model": "weekday_mean",
+"yhat": 1770,
+"lo": 1344,
+"hi": 2043
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-05",
+"h": 5,
+"model": "weekday_mean",
+"yhat": 2184,
+"lo": 1830,
+"hi": 2503
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-06",
+"h": 6,
+"model": "weekday_mean",
+"yhat": 3006,
+"lo": 2488,
+"hi": 3373
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-07",
+"h": 7,
+"model": "weekday_mean",
+"yhat": 4302,
+"lo": 3400,
+"hi": 4919
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-08",
+"h": 8,
+"model": "weekday_mean",
+"yhat": 4326,
+"lo": 3826,
+"hi": 4931
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-09",
+"h": 9,
+"model": "weekday_mean",
+"yhat": 3456,
+"lo": 2957,
+"hi": 3951
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-10",
+"h": 10,
+"model": "weekday_mean",
+"yhat": 1943,
+"lo": 1551,
+"hi": 2265
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-11",
+"h": 11,
+"model": "weekday_mean",
+"yhat": 1770,
+"lo": 1457,
+"hi": 2006
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-12",
+"h": 12,
+"model": "weekday_mean",
+"yhat": 2184,
+"lo": 1912,
+"hi": 2493
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-13",
+"h": 13,
+"model": "weekday_mean",
+"yhat": 3006,
+"lo": 2701,
+"hi": 3380
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-14",
+"h": 14,
+"model": "weekday_mean",
+"yhat": 4302,
+"lo": 3917,
+"hi": 5018
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-01",
+"h": 1,
+"model": "ets",
+"yhat": 5446,
+"lo": 4970,
+"hi": 5898
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-02",
+"h": 2,
+"model": "ets",
+"yhat": 4890,
+"lo": 4370,
+"hi": 5452
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-03",
+"h": 3,
+"model": "ets",
+"yhat": 3103,
+"lo": 2531,
+"hi": 3573
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-04",
+"h": 4,
+"model": "ets",
+"yhat": 2810,
+"lo": 2369,
+"hi": 3242
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-05",
+"h": 5,
+"model": "ets",
+"yhat": 2911,
+"lo": 2497,
+"hi": 3247
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-06",
+"h": 6,
+"model": "ets",
+"yhat": 4034,
+"lo": 3301,
+"hi": 4569
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-07",
+"h": 7,
+"model": "ets",
+"yhat": 4918,
+"lo": 3888,
+"hi": 5568
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-08",
+"h": 8,
+"model": "ets",
+"yhat": 5440,
+"lo": 4651,
+"hi": 6063
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-09",
+"h": 9,
+"model": "ets",
+"yhat": 4885,
+"lo": 4245,
+"hi": 5556
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-10",
+"h": 10,
+"model": "ets",
+"yhat": 3100,
+"lo": 2467,
+"hi": 3584
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-11",
+"h": 11,
+"model": "ets",
+"yhat": 2807,
+"lo": 2351,
+"hi": 3197
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-12",
+"h": 12,
+"model": "ets",
+"yhat": 2907,
+"lo": 2448,
+"hi": 3333
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-13",
+"h": 13,
+"model": "ets",
+"yhat": 4030,
+"lo": 3528,
+"hi": 4581
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-14",
+"h": 14,
+"model": "ets",
+"yhat": 4912,
+"lo": 4402,
+"hi": 5633
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm_nohol",
+"yhat": 4895,
+"lo": 4489,
+"hi": 5299
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm_nohol",
+"yhat": 3852,
+"lo": 3442,
+"hi": 4331
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm_nohol",
+"yhat": 2218,
+"lo": 1743,
+"hi": 2379
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm_nohol",
+"yhat": 2053,
+"lo": 1689,
+"hi": 2205
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm_nohol",
+"yhat": 2260,
+"lo": 1942,
+"hi": 2448
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm_nohol",
+"yhat": 3074,
+"lo": 2490,
+"hi": 3311
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm_nohol",
+"yhat": 4358,
+"lo": 3395,
+"hi": 4694
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm_nohol",
+"yhat": 4612,
+"lo": 4024,
+"hi": 5039
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm_nohol",
+"yhat": 3583,
+"lo": 3104,
+"hi": 3930
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm_nohol",
+"yhat": 2052,
+"lo": 1708,
+"hi": 2178
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm_nohol",
+"yhat": 1961,
+"lo": 1668,
+"hi": 2096
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm_nohol",
+"yhat": 2180,
+"lo": 1889,
+"hi": 2434
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm_nohol",
+"yhat": 3049,
+"lo": 2722,
+"hi": 3299
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm_nohol",
+"yhat": 4345,
+"lo": 3918,
+"hi": 4849
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm",
+"yhat": 4589,
+"lo": 4228,
+"hi": 4910
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm",
+"yhat": 3564,
+"lo": 3212,
+"hi": 3887
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm",
+"yhat": 1959,
+"lo": 1723,
+"hi": 2109
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm",
+"yhat": 1864,
+"lo": 1581,
+"hi": 1972
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm",
+"yhat": 2153,
+"lo": 1909,
+"hi": 2308
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm",
+"yhat": 2970,
+"lo": 2549,
+"hi": 3234
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm",
+"yhat": 4330,
+"lo": 3775,
+"hi": 4699
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm",
+"yhat": 4545,
+"lo": 3936,
+"hi": 4991
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm",
+"yhat": 3525,
+"lo": 3058,
+"hi": 3873
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm",
+"yhat": 1961,
+"lo": 1765,
+"hi": 2066
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm",
+"yhat": 1867,
+"lo": 1662,
+"hi": 1993
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm",
+"yhat": 2151,
+"lo": 1901,
+"hi": 2329
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm",
+"yhat": 2968,
+"lo": 2691,
+"hi": 3186
+},
+{
+"mode": "rail_intercity",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm",
+"yhat": 4327,
+"lo": 3991,
+"hi": 4690
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-01",
+"h": 1,
+"model": "seasonal_naive",
+"yhat": 8548,
+"lo": 7709,
+"hi": 9904
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-02",
+"h": 2,
+"model": "seasonal_naive",
+"yhat": 7335,
+"lo": 6309,
+"hi": 8739
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-03",
+"h": 3,
+"model": "seasonal_naive",
+"yhat": 8471,
+"lo": 6433,
+"hi": 10957
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-04",
+"h": 4,
+"model": "seasonal_naive",
+"yhat": 8539,
+"lo": 7196,
+"hi": 10420
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-05",
+"h": 5,
+"model": "seasonal_naive",
+"yhat": 8695,
+"lo": 7069,
+"hi": 10116
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-06",
+"h": 6,
+"model": "seasonal_naive",
+"yhat": 8520,
+"lo": 6906,
+"hi": 9513
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-07",
+"h": 7,
+"model": "seasonal_naive",
+"yhat": 9750,
+"lo": 7397,
+"hi": 10858
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-08",
+"h": 8,
+"model": "seasonal_naive",
+"yhat": 8548,
+"lo": 7540,
+"hi": 9998
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-09",
+"h": 9,
+"model": "seasonal_naive",
+"yhat": 7335,
+"lo": 6132,
+"hi": 8741
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-10",
+"h": 10,
+"model": "seasonal_naive",
+"yhat": 8471,
+"lo": 7131,
+"hi": 10452
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-11",
+"h": 11,
+"model": "seasonal_naive",
+"yhat": 8539,
+"lo": 7098,
+"hi": 10232
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-12",
+"h": 12,
+"model": "seasonal_naive",
+"yhat": 8695,
+"lo": 7147,
+"hi": 10544
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-13",
+"h": 13,
+"model": "seasonal_naive",
+"yhat": 8520,
+"lo": 7495,
+"hi": 9827
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-14",
+"h": 14,
+"model": "seasonal_naive",
+"yhat": 9750,
+"lo": 8510,
+"hi": 11005
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-01",
+"h": 1,
+"model": "weekday_mean",
+"yhat": 8560,
+"lo": 7698,
+"hi": 9574
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-02",
+"h": 2,
+"model": "weekday_mean",
+"yhat": 7155,
+"lo": 6162,
+"hi": 8379
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-03",
+"h": 3,
+"model": "weekday_mean",
+"yhat": 8648,
+"lo": 6935,
+"hi": 10115
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-04",
+"h": 4,
+"model": "weekday_mean",
+"yhat": 8591,
+"lo": 6527,
+"hi": 9919
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-05",
+"h": 5,
+"model": "weekday_mean",
+"yhat": 8580,
+"lo": 7192,
+"hi": 9835
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-06",
+"h": 6,
+"model": "weekday_mean",
+"yhat": 8746,
+"lo": 7240,
+"hi": 9814
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-07",
+"h": 7,
+"model": "weekday_mean",
+"yhat": 9669,
+"lo": 7643,
+"hi": 11057
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-08",
+"h": 8,
+"model": "weekday_mean",
+"yhat": 8560,
+"lo": 7570,
+"hi": 9755
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-09",
+"h": 9,
+"model": "weekday_mean",
+"yhat": 7155,
+"lo": 6121,
+"hi": 8179
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-10",
+"h": 10,
+"model": "weekday_mean",
+"yhat": 8648,
+"lo": 6903,
+"hi": 10079
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-11",
+"h": 11,
+"model": "weekday_mean",
+"yhat": 8591,
+"lo": 7075,
+"hi": 9741
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-12",
+"h": 12,
+"model": "weekday_mean",
+"yhat": 8580,
+"lo": 7515,
+"hi": 9796
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-13",
+"h": 13,
+"model": "weekday_mean",
+"yhat": 8746,
+"lo": 7858,
+"hi": 9835
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-14",
+"h": 14,
+"model": "weekday_mean",
+"yhat": 9669,
+"lo": 8804,
+"hi": 11279
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-01",
+"h": 1,
+"model": "ets",
+"yhat": 8578,
+"lo": 7829,
+"hi": 9291
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-02",
+"h": 2,
+"model": "ets",
+"yhat": 7307,
+"lo": 6530,
+"hi": 8147
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-03",
+"h": 3,
+"model": "ets",
+"yhat": 8487,
+"lo": 6923,
+"hi": 9771
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-04",
+"h": 4,
+"model": "ets",
+"yhat": 8615,
+"lo": 7262,
+"hi": 9938
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-05",
+"h": 5,
+"model": "ets",
+"yhat": 8654,
+"lo": 7423,
+"hi": 9654
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-06",
+"h": 6,
+"model": "ets",
+"yhat": 8704,
+"lo": 7122,
+"hi": 9859
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-07",
+"h": 7,
+"model": "ets",
+"yhat": 9572,
+"lo": 7568,
+"hi": 10837
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-08",
+"h": 8,
+"model": "ets",
+"yhat": 8578,
+"lo": 7334,
+"hi": 9561
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-09",
+"h": 9,
+"model": "ets",
+"yhat": 7307,
+"lo": 6350,
+"hi": 8311
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-10",
+"h": 10,
+"model": "ets",
+"yhat": 8487,
+"lo": 6754,
+"hi": 9812
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-11",
+"h": 11,
+"model": "ets",
+"yhat": 8615,
+"lo": 7217,
+"hi": 9813
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-12",
+"h": 12,
+"model": "ets",
+"yhat": 8654,
+"lo": 7287,
+"hi": 9921
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-13",
+"h": 13,
+"model": "ets",
+"yhat": 8704,
+"lo": 7621,
+"hi": 9894
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-14",
+"h": 14,
+"model": "ets",
+"yhat": 9572,
+"lo": 8577,
+"hi": 10976
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm_nohol",
+"yhat": 8530,
+"lo": 7822,
+"hi": 9234
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm_nohol",
+"yhat": 7294,
+"lo": 6517,
+"hi": 8201
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm_nohol",
+"yhat": 8566,
+"lo": 6733,
+"hi": 9186
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm_nohol",
+"yhat": 8488,
+"lo": 6984,
+"hi": 9115
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm_nohol",
+"yhat": 8632,
+"lo": 7418,
+"hi": 9351
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm_nohol",
+"yhat": 8801,
+"lo": 7128,
+"hi": 9480
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm_nohol",
+"yhat": 9774,
+"lo": 7615,
+"hi": 10528
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm_nohol",
+"yhat": 8533,
+"lo": 7445,
+"hi": 9324
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm_nohol",
+"yhat": 7296,
+"lo": 6321,
+"hi": 8002
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm_nohol",
+"yhat": 8577,
+"lo": 7138,
+"hi": 9102
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm_nohol",
+"yhat": 8510,
+"lo": 7240,
+"hi": 9098
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm_nohol",
+"yhat": 8608,
+"lo": 7458,
+"hi": 9610
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm_nohol",
+"yhat": 8793,
+"lo": 7850,
+"hi": 9514
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm_nohol",
+"yhat": 9769,
+"lo": 8810,
+"hi": 10902
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm",
+"yhat": 8500,
+"lo": 7830,
+"hi": 9094
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm",
+"yhat": 7283,
+"lo": 6565,
+"hi": 7943
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm",
+"yhat": 8563,
+"lo": 7534,
+"hi": 9220
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm",
+"yhat": 8475,
+"lo": 7190,
+"hi": 8964
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm",
+"yhat": 8599,
+"lo": 7625,
+"hi": 9215
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm",
+"yhat": 8756,
+"lo": 7515,
+"hi": 9534
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm",
+"yhat": 9758,
+"lo": 8507,
+"hi": 10590
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm",
+"yhat": 8528,
+"lo": 7386,
+"hi": 9366
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm",
+"yhat": 7309,
+"lo": 6340,
+"hi": 8030
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm",
+"yhat": 8611,
+"lo": 7748,
+"hi": 9069
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm",
+"yhat": 8520,
+"lo": 7586,
+"hi": 9094
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm",
+"yhat": 8578,
+"lo": 7583,
+"hi": 9289
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm",
+"yhat": 8717,
+"lo": 7901,
+"hi": 9355
+},
+{
+"mode": "rail_tebrau",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm",
+"yhat": 9702,
+"lo": 8947,
+"hi": 10515
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-01",
+"h": 1,
+"model": "seasonal_naive",
+"yhat": 163407,
+"lo": 147375,
+"hi": 189324
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-02",
+"h": 2,
+"model": "seasonal_naive",
+"yhat": 146281,
+"lo": 125829,
+"hi": 174277
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-03",
+"h": 3,
+"model": "seasonal_naive",
+"yhat": 243789,
+"lo": 185136,
+"hi": 315315
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-04",
+"h": 4,
+"model": "seasonal_naive",
+"yhat": 252739,
+"lo": 212981,
+"hi": 308397
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-05",
+"h": 5,
+"model": "seasonal_naive",
+"yhat": 254287,
+"lo": 206732,
+"hi": 295834
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-06",
+"h": 6,
+"model": "seasonal_naive",
+"yhat": 254492,
+"lo": 206279,
+"hi": 284137
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-07",
+"h": 7,
+"model": "seasonal_naive",
+"yhat": 247625,
+"lo": 187869,
+"hi": 275755
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-08",
+"h": 8,
+"model": "seasonal_naive",
+"yhat": 163407,
+"lo": 144143,
+"hi": 191125
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-09",
+"h": 9,
+"model": "seasonal_naive",
+"yhat": 146281,
+"lo": 122296,
+"hi": 174315
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-10",
+"h": 10,
+"model": "seasonal_naive",
+"yhat": 243789,
+"lo": 205225,
+"hi": 300789
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-11",
+"h": 11,
+"model": "seasonal_naive",
+"yhat": 252739,
+"lo": 210089,
+"hi": 302843
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-12",
+"h": 12,
+"model": "seasonal_naive",
+"yhat": 254287,
+"lo": 209026,
+"hi": 308344
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-13",
+"h": 13,
+"model": "seasonal_naive",
+"yhat": 254492,
+"lo": 223865,
+"hi": 293517
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-14",
+"h": 14,
+"model": "seasonal_naive",
+"yhat": 247625,
+"lo": 216126,
+"hi": 279502
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-01",
+"h": 1,
+"model": "weekday_mean",
+"yhat": 161483,
+"lo": 145228,
+"hi": 180616
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-02",
+"h": 2,
+"model": "weekday_mean",
+"yhat": 149224,
+"lo": 128507,
+"hi": 174737
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-03",
+"h": 3,
+"model": "weekday_mean",
+"yhat": 241203,
+"lo": 193434,
+"hi": 282123
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-04",
+"h": 4,
+"model": "weekday_mean",
+"yhat": 249612,
+"lo": 189633,
+"hi": 288172
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-05",
+"h": 5,
+"model": "weekday_mean",
+"yhat": 250962,
+"lo": 210368,
+"hi": 287655
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-06",
+"h": 6,
+"model": "weekday_mean",
+"yhat": 249427,
+"lo": 206482,
+"hi": 279892
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-07",
+"h": 7,
+"model": "weekday_mean",
+"yhat": 242871,
+"lo": 191991,
+"hi": 277738
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-08",
+"h": 8,
+"model": "weekday_mean",
+"yhat": 161483,
+"lo": 142820,
+"hi": 184032
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-09",
+"h": 9,
+"model": "weekday_mean",
+"yhat": 149224,
+"lo": 127658,
+"hi": 170578
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-10",
+"h": 10,
+"model": "weekday_mean",
+"yhat": 241203,
+"lo": 192546,
+"hi": 281124
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-11",
+"h": 11,
+"model": "weekday_mean",
+"yhat": 249612,
+"lo": 205571,
+"hi": 283015
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-12",
+"h": 12,
+"model": "weekday_mean",
+"yhat": 250962,
+"lo": 219818,
+"hi": 286520
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-13",
+"h": 13,
+"model": "weekday_mean",
+"yhat": 249427,
+"lo": 224118,
+"hi": 280488
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-14",
+"h": 14,
+"model": "weekday_mean",
+"yhat": 242871,
+"lo": 221149,
+"hi": 283299
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-01",
+"h": 1,
+"model": "ets",
+"yhat": 174525,
+"lo": 159289,
+"hi": 189022
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-02",
+"h": 2,
+"model": "ets",
+"yhat": 163671,
+"lo": 146268,
+"hi": 182485
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-03",
+"h": 3,
+"model": "ets",
+"yhat": 239397,
+"lo": 195277,
+"hi": 275614
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-04",
+"h": 4,
+"model": "ets",
+"yhat": 251637,
+"lo": 212138,
+"hi": 290290
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-05",
+"h": 5,
+"model": "ets",
+"yhat": 255434,
+"lo": 219120,
+"hi": 284942
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-06",
+"h": 6,
+"model": "ets",
+"yhat": 252658,
+"lo": 206748,
+"hi": 286183
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-07",
+"h": 7,
+"model": "ets",
+"yhat": 245417,
+"lo": 194044,
+"hi": 277854
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-08",
+"h": 8,
+"model": "ets",
+"yhat": 174525,
+"lo": 149220,
+"hi": 194523
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-09",
+"h": 9,
+"model": "ets",
+"yhat": 163670,
+"lo": 142233,
+"hi": 186173
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-10",
+"h": 10,
+"model": "ets",
+"yhat": 239396,
+"lo": 190518,
+"hi": 276766
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-11",
+"h": 11,
+"model": "ets",
+"yhat": 251637,
+"lo": 210802,
+"hi": 286622
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-12",
+"h": 12,
+"model": "ets",
+"yhat": 255433,
+"lo": 215088,
+"hi": 292830
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-13",
+"h": 13,
+"model": "ets",
+"yhat": 252658,
+"lo": 221213,
+"hi": 287205
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-14",
+"h": 14,
+"model": "ets",
+"yhat": 245416,
+"lo": 219902,
+"hi": 281428
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm_nohol",
+"yhat": 164195,
+"lo": 150572,
+"hi": 177753
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm_nohol",
+"yhat": 154056,
+"lo": 137666,
+"hi": 173213
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm_nohol",
+"yhat": 244568,
+"lo": 192238,
+"hi": 262272
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm_nohol",
+"yhat": 253141,
+"lo": 208270,
+"hi": 271839
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm_nohol",
+"yhat": 254257,
+"lo": 218522,
+"hi": 275449
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm_nohol",
+"yhat": 252857,
+"lo": 204811,
+"hi": 272352
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm_nohol",
+"yhat": 248930,
+"lo": 193933,
+"hi": 268115
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm_nohol",
+"yhat": 164878,
+"lo": 143858,
+"hi": 180158
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm_nohol",
+"yhat": 154581,
+"lo": 133916,
+"hi": 169535
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm_nohol",
+"yhat": 245416,
+"lo": 204261,
+"hi": 260454
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm_nohol",
+"yhat": 254677,
+"lo": 216679,
+"hi": 272274
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm_nohol",
+"yhat": 254281,
+"lo": 220317,
+"hi": 283878
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm_nohol",
+"yhat": 252666,
+"lo": 225576,
+"hi": 273389
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm_nohol",
+"yhat": 248620,
+"lo": 224221,
+"hi": 277460
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm",
+"yhat": 164368,
+"lo": 151426,
+"hi": 175858
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm",
+"yhat": 151710,
+"lo": 136750,
+"hi": 165462
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm",
+"yhat": 244932,
+"lo": 215490,
+"hi": 263730
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm",
+"yhat": 252520,
+"lo": 214217,
+"hi": 267063
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm",
+"yhat": 253950,
+"lo": 225179,
+"hi": 272118
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm",
+"yhat": 252745,
+"lo": 216920,
+"hi": 275189
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm",
+"yhat": 249787,
+"lo": 217763,
+"hi": 271068
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm",
+"yhat": 164972,
+"lo": 142874,
+"hi": 181175
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm",
+"yhat": 152274,
+"lo": 132084,
+"hi": 167296
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm",
+"yhat": 246110,
+"lo": 221429,
+"hi": 259178
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm",
+"yhat": 253868,
+"lo": 226035,
+"hi": 270970
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm",
+"yhat": 252069,
+"lo": 222829,
+"hi": 272973
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm",
+"yhat": 250208,
+"lo": 226805,
+"hi": 268512
+},
+{
+"mode": "bus_rkl",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm",
+"yhat": 247157,
+"lo": 227935,
+"hi": 267861
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-01",
+"h": 1,
+"model": "seasonal_naive",
+"yhat": 43856,
+"lo": 39553,
+"hi": 50812
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-02",
+"h": 2,
+"model": "seasonal_naive",
+"yhat": 45699,
+"lo": 39310,
+"hi": 54445
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-03",
+"h": 3,
+"model": "seasonal_naive",
+"yhat": 49404,
+"lo": 37518,
+"hi": 63899
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-04",
+"h": 4,
+"model": "seasonal_naive",
+"yhat": 51178,
+"lo": 43127,
+"hi": 62449
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-05",
+"h": 5,
+"model": "seasonal_naive",
+"yhat": 48267,
+"lo": 39240,
+"hi": 56153
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-06",
+"h": 6,
+"model": "seasonal_naive",
+"yhat": 52014,
+"lo": 42160,
+"hi": 58073
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-07",
+"h": 7,
+"model": "seasonal_naive",
+"yhat": 53121,
+"lo": 40302,
+"hi": 59156
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-08",
+"h": 8,
+"model": "seasonal_naive",
+"yhat": 43856,
+"lo": 38686,
+"hi": 51295
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-09",
+"h": 9,
+"model": "seasonal_naive",
+"yhat": 45699,
+"lo": 38206,
+"hi": 54457
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-10",
+"h": 10,
+"model": "seasonal_naive",
+"yhat": 49404,
+"lo": 41589,
+"hi": 60955
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-11",
+"h": 11,
+"model": "seasonal_naive",
+"yhat": 51178,
+"lo": 42542,
+"hi": 61324
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-12",
+"h": 12,
+"model": "seasonal_naive",
+"yhat": 48267,
+"lo": 39676,
+"hi": 58528
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-13",
+"h": 13,
+"model": "seasonal_naive",
+"yhat": 52014,
+"lo": 45754,
+"hi": 59990
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-14",
+"h": 14,
+"model": "seasonal_naive",
+"yhat": 53121,
+"lo": 46364,
+"hi": 59959
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-01",
+"h": 1,
+"model": "weekday_mean",
+"yhat": 46117,
+"lo": 41475,
+"hi": 51581
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-02",
+"h": 2,
+"model": "weekday_mean",
+"yhat": 46612,
+"lo": 40141,
+"hi": 54582
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-03",
+"h": 3,
+"model": "weekday_mean",
+"yhat": 50114,
+"lo": 40189,
+"hi": 58616
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-04",
+"h": 4,
+"model": "weekday_mean",
+"yhat": 48988,
+"lo": 37217,
+"hi": 56556
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-05",
+"h": 5,
+"model": "weekday_mean",
+"yhat": 50201,
+"lo": 42081,
+"hi": 57541
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-06",
+"h": 6,
+"model": "weekday_mean",
+"yhat": 51012,
+"lo": 42228,
+"hi": 57242
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-07",
+"h": 7,
+"model": "weekday_mean",
+"yhat": 52984,
+"lo": 41884,
+"hi": 60591
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-08",
+"h": 8,
+"model": "weekday_mean",
+"yhat": 46117,
+"lo": 40787,
+"hi": 52557
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-09",
+"h": 9,
+"model": "weekday_mean",
+"yhat": 46612,
+"lo": 39876,
+"hi": 53283
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-10",
+"h": 10,
+"model": "weekday_mean",
+"yhat": 50114,
+"lo": 40005,
+"hi": 58408
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-11",
+"h": 11,
+"model": "weekday_mean",
+"yhat": 48988,
+"lo": 40345,
+"hi": 55544
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-12",
+"h": 12,
+"model": "weekday_mean",
+"yhat": 50201,
+"lo": 43971,
+"hi": 57314
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-13",
+"h": 13,
+"model": "weekday_mean",
+"yhat": 51012,
+"lo": 45835,
+"hi": 57364
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-14",
+"h": 14,
+"model": "weekday_mean",
+"yhat": 52984,
+"lo": 48246,
+"hi": 61804
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-01",
+"h": 1,
+"model": "ets",
+"yhat": 46937,
+"lo": 42839,
+"hi": 50835
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-02",
+"h": 2,
+"model": "ets",
+"yhat": 48796,
+"lo": 43608,
+"hi": 54405
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-03",
+"h": 3,
+"model": "ets",
+"yhat": 48859,
+"lo": 39854,
+"hi": 56250
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-04",
+"h": 4,
+"model": "ets",
+"yhat": 49986,
+"lo": 42139,
+"hi": 57664
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-05",
+"h": 5,
+"model": "ets",
+"yhat": 50237,
+"lo": 43095,
+"hi": 56041
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-06",
+"h": 6,
+"model": "ets",
+"yhat": 49504,
+"lo": 40508,
+"hi": 56073
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-07",
+"h": 7,
+"model": "ets",
+"yhat": 52464,
+"lo": 41482,
+"hi": 59398
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-08",
+"h": 8,
+"model": "ets",
+"yhat": 46937,
+"lo": 40131,
+"hi": 52315
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-09",
+"h": 9,
+"model": "ets",
+"yhat": 48796,
+"lo": 42405,
+"hi": 55505
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-10",
+"h": 10,
+"model": "ets",
+"yhat": 48859,
+"lo": 38883,
+"hi": 56486
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-11",
+"h": 11,
+"model": "ets",
+"yhat": 49986,
+"lo": 41874,
+"hi": 56936
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-12",
+"h": 12,
+"model": "ets",
+"yhat": 50237,
+"lo": 42302,
+"hi": 57592
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-13",
+"h": 13,
+"model": "ets",
+"yhat": 49504,
+"lo": 43343,
+"hi": 56273
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-14",
+"h": 14,
+"model": "ets",
+"yhat": 52464,
+"lo": 47010,
+"hi": 60163
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm_nohol",
+"yhat": 46500,
+"lo": 42642,
+"hi": 50340
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm_nohol",
+"yhat": 47459,
+"lo": 42409,
+"hi": 53360
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm_nohol",
+"yhat": 50687,
+"lo": 39842,
+"hi": 54357
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm_nohol",
+"yhat": 50666,
+"lo": 41685,
+"hi": 54408
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm_nohol",
+"yhat": 50743,
+"lo": 43611,
+"hi": 54973
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm_nohol",
+"yhat": 51909,
+"lo": 42045,
+"hi": 55911
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm_nohol",
+"yhat": 54290,
+"lo": 42295,
+"hi": 58474
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm_nohol",
+"yhat": 46748,
+"lo": 40788,
+"hi": 51080
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm_nohol",
+"yhat": 47814,
+"lo": 41422,
+"hi": 52439
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm_nohol",
+"yhat": 50906,
+"lo": 42369,
+"hi": 54025
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm_nohol",
+"yhat": 50871,
+"lo": 43281,
+"hi": 54386
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm_nohol",
+"yhat": 50829,
+"lo": 44040,
+"hi": 56745
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm_nohol",
+"yhat": 51927,
+"lo": 46360,
+"hi": 56186
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm_nohol",
+"yhat": 54307,
+"lo": 48977,
+"hi": 60606
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-01",
+"h": 1,
+"model": "lgbm",
+"yhat": 46866,
+"lo": 43176,
+"hi": 50143
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-02",
+"h": 2,
+"model": "lgbm",
+"yhat": 47961,
+"lo": 43232,
+"hi": 52309
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-03",
+"h": 3,
+"model": "lgbm",
+"yhat": 50454,
+"lo": 44389,
+"hi": 54326
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-04",
+"h": 4,
+"model": "lgbm",
+"yhat": 50486,
+"lo": 42828,
+"hi": 53394
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-05",
+"h": 5,
+"model": "lgbm",
+"yhat": 50836,
+"lo": 45076,
+"hi": 54472
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-06",
+"h": 6,
+"model": "lgbm",
+"yhat": 52039,
+"lo": 44663,
+"hi": 56660
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-07",
+"h": 7,
+"model": "lgbm",
+"yhat": 54558,
+"lo": 47563,
+"hi": 59206
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-08",
+"h": 8,
+"model": "lgbm",
+"yhat": 47063,
+"lo": 40759,
+"hi": 51685
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-09",
+"h": 9,
+"model": "lgbm",
+"yhat": 48199,
+"lo": 41808,
+"hi": 52954
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-10",
+"h": 10,
+"model": "lgbm",
+"yhat": 50707,
+"lo": 45622,
+"hi": 53399
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-11",
+"h": 11,
+"model": "lgbm",
+"yhat": 50579,
+"lo": 45034,
+"hi": 53987
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-12",
+"h": 12,
+"model": "lgbm",
+"yhat": 50381,
+"lo": 44536,
+"hi": 54559
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-13",
+"h": 13,
+"model": "lgbm",
+"yhat": 51259,
+"lo": 46464,
+"hi": 55009
+},
+{
+"mode": "bus_rpn",
+"date": "2026-08-14",
+"h": 14,
+"model": "lgbm",
+"yhat": 53639,
+"lo": 49467,
+"hi": 58132
+}
+]

@@ -1,0 +1,47 @@
+[
+{
+"model": "lgbm",
+"n": 4368,
+"mae": 5193.329,
+"wape": 0.0498,
+"bias": 0.0146,
+"mase": 0.7692,
+"label": "LightGBM"
+},
+{
+"model": "lgbm_nohol",
+"n": 4368,
+"mae": 7588.7568,
+"wape": 0.0728,
+"bias": 0.0335,
+"mase": 0.9768,
+"label": "LightGBM, no calendar"
+},
+{
+"model": "ets",
+"n": 4368,
+"mae": 9264.1585,
+"wape": 0.0888,
+"bias": 0.0066,
+"mase": 1.1201,
+"label": "ETS"
+},
+{
+"model": "weekday_mean",
+"n": 4368,
+"mae": 9232.7,
+"wape": 0.0885,
+"bias": -0.001,
+"mase": 1.186,
+"label": "Weekday mean"
+},
+{
+"model": "seasonal_naive",
+"n": 4368,
+"mae": 10149.8429,
+"wape": 0.0973,
+"bias": 0.0075,
+"mase": 1.3036,
+"label": "Seasonal naive"
+}
+]

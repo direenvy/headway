@@ -13,5 +13,5 @@ out/
 .env.local
 .DS_Store
 Thumbs.db
-data/
-!data/.gitkeep
+/data/
+!/data/.gitkeep

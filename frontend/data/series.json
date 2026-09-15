@@ -1,0 +1,122 @@
+[
+{
+"key": "rail_lrt_kj",
+"label": "LRT Kelana Jaya",
+"system": "rail",
+"holidays": "KUL",
+"scale": 21146,
+"last_28d_avg": 261237,
+"first_date": "2019-01-01",
+"beats_naive": true
+},
+{
+"key": "rail_lrt_ampang",
+"label": "LRT Ampang / Sri Petaling",
+"system": "rail",
+"holidays": "KUL",
+"scale": 15085,
+"last_28d_avg": 204054,
+"first_date": "2019-01-01",
+"beats_naive": true
+},
+{
+"key": "rail_mrt_kajang",
+"label": "MRT Kajang",
+"system": "rail",
+"holidays": "KUL",
+"scale": 15332,
+"last_28d_avg": 277571,
+"first_date": "2019-01-01",
+"beats_naive": true
+},
+{
+"key": "rail_mrt_pjy",
+"label": "MRT Putrajaya",
+"system": "rail",
+"holidays": "KUL",
+"scale": 9307,
+"last_28d_avg": 167417,
+"first_date": "2022-06-16",
+"beats_naive": true
+},
+{
+"key": "rail_monorail",
+"label": "KL Monorail",
+"system": "rail",
+"holidays": "KUL",
+"scale": 3974,
+"last_28d_avg": 57321,
+"first_date": "2019-01-01",
+"beats_naive": true
+},
+{
+"key": "rail_komuter",
+"label": "KTM Komuter",
+"system": "rail",
+"holidays": "SGR",
+"scale": 3650,
+"last_28d_avg": 20146,
+"first_date": "2023-09-10",
+"beats_naive": true
+},
+{
+"key": "rail_komuter_utara",
+"label": "KTM Komuter Utara",
+"system": "rail",
+"holidays": "PRK",
+"scale": 1924,
+"last_28d_avg": 18179,
+"first_date": "2020-10-15",
+"beats_naive": true
+},
+{
+"key": "rail_ets",
+"label": "KTM ETS",
+"system": "rail",
+"holidays": "national",
+"scale": 1115,
+"last_28d_avg": 18447,
+"first_date": "2020-10-15",
+"beats_naive": true
+},
+{
+"key": "rail_intercity",
+"label": "KTM Intercity",
+"system": "rail",
+"holidays": "national",
+"scale": 1032,
+"last_28d_avg": 2998,
+"first_date": "2020-10-15",
+"beats_naive": true
+},
+{
+"key": "rail_tebrau",
+"label": "KTM Shuttle Tebrau",
+"system": "rail",
+"holidays": "JHR",
+"scale": 409,
+"last_28d_avg": 8564,
+"first_date": "2022-06-19",
+"beats_naive": true
+},
+{
+"key": "bus_rkl",
+"label": "Rapid Bus KL",
+"system": "bus",
+"holidays": "KUL",
+"scale": 14672,
+"last_28d_avg": 220683,
+"first_date": "2022-01-01",
+"beats_naive": true
+},
+{
+"key": "bus_rpn",
+"label": "Rapid Bus Penang",
+"system": "bus",
+"holidays": "PNG",
+"scale": 2064,
+"last_28d_avg": 49433,
+"first_date": "2022-01-01",
+"beats_naive": true
+}
+]
