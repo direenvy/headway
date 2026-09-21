@@ -1,13 +1,5 @@
 [
 {
-"date": "2025-08-31",
-"name": "Hari Kebangsaan"
-},
-{
-"date": "2025-09-01",
-"name": "Cuti Hari Kebangsaan"
-},
-{
 "date": "2025-09-05",
 "name": "Hari Keputeraan Nabi Muhammad S.A.W."
 },
@@ -90,5 +82,13 @@
 {
 "date": "2026-06-17",
 "name": "Awal Muharam"
+},
+{
+"date": "2026-08-25",
+"name": "Hari Keputeraan Nabi Muhammad S.A.W."
+},
+{
+"date": "2026-08-31",
+"name": "Hari Kebangsaan"
 }
 ]

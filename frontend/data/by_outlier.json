@@ -2,91 +2,91 @@
 {
 "model": "ets",
 "outlier": false,
-"n": 4352,
-"mae": 9231.5743,
-"wape": 0.0882,
-"bias": 0.0066,
-"mase": 1.1043
+"n": 4351,
+"mae": 9523.3464,
+"wape": 0.091,
+"bias": 0.0059,
+"mase": 1.2234
 },
 {
 "model": "ets",
 "outlier": true,
-"n": 16,
-"mae": 18127.0556,
-"wape": 1.014,
-"bias": -0.0334,
-"mase": 8.6765
-},
-{
-"model": "lgbm",
-"outlier": false,
-"n": 4352,
-"mae": 5150.1801,
-"wape": 0.0492,
-"bias": 0.0146,
-"mase": 0.7559
-},
-{
-"model": "lgbm",
-"outlier": true,
-"n": 16,
-"mae": 16929.8238,
-"wape": 0.947,
-"bias": 0.0291,
-"mase": 8.0988
-},
-{
-"model": "lgbm_nohol",
-"outlier": false,
-"n": 4352,
-"mae": 7547.6386,
-"wape": 0.0721,
+"n": 17,
+"mae": 17964.8838,
+"wape": 1.0479,
 "bias": 0.0336,
-"mase": 0.9601
+"mase": 9.156
+},
+{
+"model": "lgbm",
+"outlier": false,
+"n": 4351,
+"mae": 5252.2036,
+"wape": 0.0502,
+"bias": 0.0109,
+"mase": 0.788
+},
+{
+"model": "lgbm",
+"outlier": true,
+"n": 17,
+"mae": 16407.5598,
+"wape": 0.957,
+"bias": 0.0021,
+"mase": 8.5241
+},
+{
+"model": "lgbm_nohol",
+"outlier": false,
+"n": 4351,
+"mae": 7624.7327,
+"wape": 0.0728,
+"bias": 0.0325,
+"mase": 0.9851
 },
 {
 "model": "lgbm_nohol",
 "outlier": true,
-"n": 16,
-"mae": 18772.8957,
-"wape": 1.0501,
-"bias": -0.0269,
-"mase": 8.9732
+"n": 17,
+"mae": 18090.3106,
+"wape": 1.0552,
+"bias": -0.043,
+"mase": 9.306
 },
 {
 "model": "seasonal_naive",
 "outlier": false,
-"n": 4352,
-"mae": 10112.4961,
-"wape": 0.0967,
-"bias": 0.0075,
-"mase": 1.2861
+"n": 4351,
+"mae": 10382.0577,
+"wape": 0.0992,
+"bias": 0.0116,
+"mase": 1.3217
 },
 {
 "model": "seasonal_naive",
 "outlier": true,
-"n": 16,
-"mae": 20308.1875,
-"wape": 1.136,
-"bias": 0.0097,
-"mase": 9.5057
+"n": 17,
+"mae": 18339.7647,
+"wape": 1.0697,
+"bias": -0.0449,
+"mase": 9.4196
 },
 {
 "model": "weekday_mean",
 "outlier": false,
-"n": 4352,
-"mae": 9195.3173,
-"wape": 0.0879,
-"bias": -0.0009,
-"mase": 1.1695
+"n": 4351,
+"mae": 9517.968,
+"wape": 0.0909,
+"bias": 0.0004,
+"mase": 1.2103
 },
 {
 "model": "weekday_mean",
 "outlier": true,
-"n": 16,
-"mae": 19400.7812,
-"wape": 1.0852,
-"bias": -0.0244,
-"mase": 9.2609
+"n": 17,
+"mae": 18023.8971,
+"wape": 1.0513,
+"bias": -0.0592,
+"mase": 9.2866
 }
 ]
