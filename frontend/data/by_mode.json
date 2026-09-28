@@ -3,7 +3,7 @@
 "mode": "bus_rkl",
 "model": "ets",
 "n": 364,
-"mae": 18237.3053,
+"mae": 18237.3093,
 "wape": 0.0865,
 "bias": 0.0047,
 "mase": 1.2537
@@ -48,7 +48,7 @@
 "mode": "bus_rpn",
 "model": "ets",
 "n": 364,
-"mae": 2417.1592,
+"mae": 2417.1567,
 "wape": 0.0502,
 "bias": 0.0028,
 "mase": 1.178
@@ -93,7 +93,7 @@
 "mode": "rail_ets",
 "model": "ets",
 "n": 364,
-"mae": 1734.9308,
+"mae": 1734.9305,
 "wape": 0.1106,
 "bias": -0.0122,
 "mase": 1.5808
@@ -138,7 +138,7 @@
 "mode": "rail_intercity",
 "model": "ets",
 "n": 364,
-"mae": 1195.1252,
+"mae": 1195.1261,
 "wape": 0.3505,
 "bias": 0.0578,
 "mase": 1.1778
@@ -183,7 +183,7 @@
 "mode": "rail_komuter",
 "model": "ets",
 "n": 364,
-"mae": 3722.5232,
+"mae": 3722.5237,
 "wape": 0.1497,
 "bias": 0.0155,
 "mase": 1.0451
@@ -228,7 +228,7 @@
 "mode": "rail_komuter_utara",
 "model": "ets",
 "n": 364,
-"mae": 2025.5588,
+"mae": 2025.559,
 "wape": 0.1176,
 "bias": 0.0065,
 "mase": 1.0622
@@ -273,7 +273,7 @@
 "mode": "rail_lrt_ampang",
 "model": "ets",
 "n": 364,
-"mae": 18499.0992,
+"mae": 18499.1387,
 "wape": 0.0928,
 "bias": 0.0103,
 "mase": 1.2402
@@ -318,7 +318,7 @@
 "mode": "rail_lrt_kj",
 "model": "ets",
 "n": 364,
-"mae": 24996.4038,
+"mae": 24996.3613,
 "wape": 0.1017,
 "bias": 0.0069,
 "mase": 1.1953
@@ -363,7 +363,7 @@
 "mode": "rail_monorail",
 "model": "ets",
 "n": 364,
-"mae": 4429.1881,
+"mae": 4429.1832,
 "wape": 0.0771,
 "bias": -0.0029,
 "mase": 1.1161
@@ -408,7 +408,7 @@
 "mode": "rail_mrt_kajang",
 "model": "ets",
 "n": 364,
-"mae": 20024.0999,
+"mae": 20024.113,
 "wape": 0.0766,
 "bias": 0.0068,
 "mase": 1.3165
@@ -453,7 +453,7 @@
 "mode": "rail_mrt_pjy",
 "model": "ets",
 "n": 364,
-"mae": 17055.2986,
+"mae": 17055.2954,
 "wape": 0.107,
 "bias": 0.0031,
 "mase": 1.8389
@@ -498,7 +498,7 @@
 "mode": "rail_tebrau",
 "model": "ets",
 "n": 364,
-"mae": 337.7124,
+"mae": 337.7132,
 "wape": 0.0393,
 "bias": -0.0026,
 "mase": 0.8337

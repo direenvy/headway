@@ -3,7 +3,7 @@
 "model": "ets",
 "day_type": "holiday",
 "n": 271,
-"mae": 36412.5149,
+"mae": 36412.531,
 "wape": 0.4699,
 "bias": 0.4269,
 "mase": 3.5518
@@ -12,7 +12,7 @@
 "model": "ets",
 "day_type": "holiday-adjacent",
 "n": 350,
-"mae": 13692.8455,
+"mae": 13692.8328,
 "wape": 0.1287,
 "bias": 0.0409,
 "mase": 1.7258
@@ -21,7 +21,7 @@
 "model": "ets",
 "day_type": "weekday",
 "n": 2646,
-"mae": 7604.8492,
+"mae": 7604.8503,
 "wape": 0.0643,
 "bias": -0.0299,
 "mase": 1.02
@@ -30,7 +30,7 @@
 "model": "ets",
 "day_type": "weekend",
 "n": 1101,
-"mae": 6320.4039,
+"mae": 6320.4033,
 "wape": 0.0825,
 "bias": 0.0187,
 "mase": 1.0265
