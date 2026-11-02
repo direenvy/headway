@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-26T08:29:15Z",
+"generated_at": "2026-11-02T10:28:55Z",
 "first_date": "2019-01-01",
 "last_date": "2026-08-31",
 "train_from": "2022-04-01",
@@ -32,6 +32,6 @@
 "holiday": "",
 "outlier": true
 },
-"backtest_seconds": 401.6,
+"backtest_seconds": 249.9,
 "train_rows": 255682
 }
