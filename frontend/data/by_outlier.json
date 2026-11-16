@@ -3,7 +3,7 @@
 "model": "ets",
 "outlier": false,
 "n": 4351,
-"mae": 9523.3464,
+"mae": 9523.3469,
 "wape": 0.091,
 "bias": 0.0059,
 "mase": 1.2234
@@ -12,7 +12,7 @@
 "model": "ets",
 "outlier": true,
 "n": 17,
-"mae": 17964.8838,
+"mae": 17964.8718,
 "wape": 1.0479,
 "bias": 0.0336,
 "mase": 9.156
