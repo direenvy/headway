@@ -2,91 +2,91 @@
 {
 "model": "ets",
 "outlier": false,
-"n": 4351,
-"mae": 9523.3469,
-"wape": 0.091,
-"bias": 0.0059,
-"mase": 1.2234
+"n": 4354,
+"mae": 9672.2791,
+"wape": 0.0918,
+"bias": -0.0156,
+"mase": 1.1296
 },
 {
 "model": "ets",
 "outlier": true,
-"n": 17,
-"mae": 17964.8718,
-"wape": 1.0479,
-"bias": 0.0336,
-"mase": 9.156
+"n": 14,
+"mae": 11007.2245,
+"wape": 0.7084,
+"bias": -0.7084,
+"mase": 9.8332
 },
 {
 "model": "lgbm",
 "outlier": false,
-"n": 4351,
-"mae": 5252.2036,
-"wape": 0.0502,
-"bias": 0.0109,
-"mase": 0.788
+"n": 4354,
+"mae": 5042.9522,
+"wape": 0.0479,
+"bias": 0.0078,
+"mase": 0.7353
 },
 {
 "model": "lgbm",
 "outlier": true,
-"n": 17,
-"mae": 16407.5598,
-"wape": 0.957,
-"bias": 0.0021,
-"mase": 8.5241
+"n": 14,
+"mae": 9924.3567,
+"wape": 0.6387,
+"bias": -0.6369,
+"mase": 9.1408
 },
 {
 "model": "lgbm_nohol",
 "outlier": false,
-"n": 4351,
-"mae": 7624.7327,
-"wape": 0.0728,
-"bias": 0.0325,
-"mase": 0.9851
+"n": 4354,
+"mae": 7192.6776,
+"wape": 0.0683,
+"bias": 0.0182,
+"mase": 0.9098
 },
 {
 "model": "lgbm_nohol",
 "outlier": true,
-"n": 17,
-"mae": 18090.3106,
-"wape": 1.0552,
-"bias": -0.043,
-"mase": 9.306
+"n": 14,
+"mae": 10947.087,
+"wape": 0.7045,
+"bias": -0.7045,
+"mase": 9.8361
 },
 {
 "model": "seasonal_naive",
 "outlier": false,
-"n": 4351,
-"mae": 10382.0577,
-"wape": 0.0992,
-"bias": 0.0116,
-"mase": 1.3217
+"n": 4354,
+"mae": 10241.8558,
+"wape": 0.0972,
+"bias": -0.0083,
+"mase": 1.2455
 },
 {
 "model": "seasonal_naive",
 "outlier": true,
-"n": 17,
-"mae": 18339.7647,
-"wape": 1.0697,
-"bias": -0.0449,
-"mase": 9.4196
+"n": 14,
+"mae": 10692.0,
+"wape": 0.6881,
+"bias": -0.6844,
+"mase": 9.6878
 },
 {
 "model": "weekday_mean",
 "outlier": false,
-"n": 4351,
-"mae": 9517.968,
-"wape": 0.0909,
-"bias": 0.0004,
-"mase": 1.2103
+"n": 4354,
+"mae": 8978.6388,
+"wape": 0.0852,
+"bias": -0.0028,
+"mase": 1.1166
 },
 {
 "model": "weekday_mean",
 "outlier": true,
-"n": 17,
-"mae": 18023.8971,
-"wape": 1.0513,
-"bias": -0.0592,
-"mase": 9.2866
+"n": 14,
+"mae": 11076.0714,
+"wape": 0.7128,
+"bias": -0.7128,
+"mase": 9.904
 }
 ]

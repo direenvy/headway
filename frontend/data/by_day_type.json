@@ -2,181 +2,181 @@
 {
 "model": "ets",
 "day_type": "holiday",
-"n": 271,
-"mae": 36412.531,
-"wape": 0.4699,
-"bias": 0.4269,
-"mase": 3.5518
+"n": 237,
+"mae": 34012.2619,
+"wape": 0.4392,
+"bias": 0.3383,
+"mase": 3.3611
 },
 {
 "model": "ets",
 "day_type": "holiday-adjacent",
-"n": 350,
-"mae": 13692.8328,
-"wape": 0.1287,
-"bias": 0.0409,
-"mase": 1.7258
+"n": 306,
+"mae": 14572.1381,
+"wape": 0.1351,
+"bias": 0.0169,
+"mase": 1.7981
 },
 {
 "model": "ets",
 "day_type": "weekday",
-"n": 2646,
-"mae": 7604.8503,
-"wape": 0.0643,
-"bias": -0.0299,
-"mase": 1.02
+"n": 2690,
+"mae": 8624.6594,
+"wape": 0.0726,
+"bias": -0.0438,
+"mase": 1.0094
 },
 {
 "model": "ets",
 "day_type": "weekend",
-"n": 1101,
-"mae": 6320.4033,
-"wape": 0.0825,
-"bias": 0.0187,
-"mase": 1.0265
+"n": 1135,
+"mae": 5768.1851,
+"wape": 0.0746,
+"bias": -0.0006,
+"mase": 0.8259
 },
 {
 "model": "lgbm",
 "day_type": "holiday",
-"n": 271,
-"mae": 8186.317,
-"wape": 0.1057,
-"bias": 0.0424,
-"mase": 1.355
+"n": 237,
+"mae": 8175.0896,
+"wape": 0.1056,
+"bias": 0.0183,
+"mase": 1.3008
 },
 {
 "model": "lgbm",
 "day_type": "holiday-adjacent",
-"n": 350,
-"mae": 11314.6033,
-"wape": 0.1063,
-"bias": 0.0377,
-"mase": 1.4109
+"n": 306,
+"mae": 12515.7481,
+"wape": 0.116,
+"bias": 0.0432,
+"mase": 1.4942
 },
 {
 "model": "lgbm",
 "day_type": "weekday",
-"n": 2646,
-"mae": 4136.1443,
-"wape": 0.035,
-"bias": 0.0028,
-"mase": 0.647
+"n": 2690,
+"mae": 3859.9912,
+"wape": 0.0325,
+"bias": 0.0014,
+"mase": 0.6018
 },
 {
 "model": "lgbm",
 "day_type": "weekend",
-"n": 1101,
-"mae": 5457.2437,
-"wape": 0.0712,
-"bias": 0.021,
-"mase": 0.8454
+"n": 1135,
+"mae": 5238.1176,
+"wape": 0.0677,
+"bias": 0.014,
+"mase": 0.7729
 },
 {
 "model": "lgbm_nohol",
 "day_type": "holiday",
-"n": 271,
-"mae": 38177.4698,
-"wape": 0.4927,
-"bias": 0.443,
-"mase": 3.7304
+"n": 237,
+"mae": 36753.3459,
+"wape": 0.4746,
+"bias": 0.396,
+"mase": 3.5162
 },
 {
 "model": "lgbm_nohol",
 "day_type": "holiday-adjacent",
-"n": 350,
-"mae": 13682.6312,
-"wape": 0.1286,
-"bias": 0.0533,
-"mase": 1.6281
+"n": 306,
+"mae": 15251.9548,
+"wape": 0.1414,
+"bias": 0.0484,
+"mase": 1.7531
 },
 {
 "model": "lgbm_nohol",
 "day_type": "weekday",
-"n": 2646,
-"mae": 4569.6718,
-"wape": 0.0386,
-"bias": 0.0042,
-"mase": 0.694
+"n": 2690,
+"mae": 4467.1156,
+"wape": 0.0376,
+"bias": -0.0065,
+"mase": 0.6611
 },
 {
 "model": "lgbm_nohol",
 "day_type": "weekend",
-"n": 1101,
-"mae": 5682.4526,
-"wape": 0.0741,
-"bias": 0.0257,
-"mase": 0.8705
+"n": 1135,
+"mae": 5353.2998,
+"wape": 0.0692,
+"bias": 0.0158,
+"mase": 0.7806
 },
 {
 "model": "seasonal_naive",
 "day_type": "holiday",
-"n": 271,
-"mae": 38653.9373,
-"wape": 0.4989,
-"bias": 0.423,
-"mase": 3.8862
+"n": 237,
+"mae": 34847.5738,
+"wape": 0.45,
+"bias": 0.3629,
+"mase": 3.47
 },
 {
 "model": "seasonal_naive",
 "day_type": "holiday-adjacent",
-"n": 350,
-"mae": 17489.1143,
-"wape": 0.1644,
-"bias": 0.0351,
-"mase": 2.0977
+"n": 306,
+"mae": 18476.1601,
+"wape": 0.1713,
+"bias": 0.0068,
+"mase": 2.1056
 },
 {
 "model": "seasonal_naive",
 "day_type": "weekday",
-"n": 2646,
-"mae": 7789.4229,
-"wape": 0.0658,
-"bias": -0.0205,
-"mase": 1.0615
+"n": 2690,
+"mae": 8267.5439,
+"wape": 0.0695,
+"bias": -0.0379,
+"mase": 1.0508
 },
 {
 "model": "seasonal_naive",
 "day_type": "weekend",
-"n": 1101,
-"mae": 7517.6104,
-"wape": 0.0981,
-"bias": 0.0176,
-"mase": 1.1389
+"n": 1135,
+"mae": 7568.6828,
+"wape": 0.0979,
+"bias": 0.0147,
+"mase": 1.0626
 },
 {
 "model": "weekday_mean",
 "day_type": "holiday",
-"n": 271,
-"mae": 37274.7823,
-"wape": 0.4811,
-"bias": 0.415,
-"mase": 3.7959
+"n": 237,
+"mae": 35922.5063,
+"wape": 0.4639,
+"bias": 0.3951,
+"mase": 3.5863
 },
 {
 "model": "weekday_mean",
 "day_type": "holiday-adjacent",
-"n": 350,
-"mae": 13521.1336,
-"wape": 0.1271,
-"bias": 0.0361,
-"mase": 1.7758
+"n": 306,
+"mae": 15560.6364,
+"wape": 0.1443,
+"bias": 0.036,
+"mase": 1.9135
 },
 {
 "model": "weekday_mean",
 "day_type": "weekday",
-"n": 2646,
-"mae": 7646.9099,
-"wape": 0.0646,
-"bias": -0.0343,
-"mase": 1.0084
+"n": 2690,
+"mae": 6996.5573,
+"wape": 0.0589,
+"bias": -0.033,
+"mase": 0.9114
 },
 {
 "model": "weekday_mean",
 "day_type": "weekend",
-"n": 1101,
-"mae": 6041.3249,
-"wape": 0.0788,
-"bias": 0.0102,
-"mase": 0.9529
+"n": 1135,
+"mae": 6301.4366,
+"wape": 0.0815,
+"bias": 0.0077,
+"mase": 0.9291
 }
 ]

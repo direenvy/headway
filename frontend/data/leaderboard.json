@@ -2,46 +2,46 @@
 {
 "model": "lgbm",
 "n": 4368,
-"mae": 5295.6196,
-"wape": 0.0508,
-"bias": 0.0109,
-"mase": 0.802,
+"mae": 5058.5977,
+"wape": 0.0481,
+"bias": 0.0075,
+"mase": 0.7462,
 "label": "LightGBM"
 },
 {
 "model": "lgbm_nohol",
 "n": 4368,
-"mae": 7665.4641,
-"wape": 0.0735,
-"bias": 0.0324,
-"mase": 1.0027,
+"mae": 7204.7109,
+"wape": 0.0686,
+"bias": 0.0178,
+"mase": 0.9231,
 "label": "LightGBM, no calendar"
 },
 {
 "model": "weekday_mean",
 "n": 4368,
-"mae": 9551.0726,
-"wape": 0.0916,
-"bias": 0.0004,
-"mase": 1.2274,
+"mae": 8985.3614,
+"wape": 0.0855,
+"bias": -0.0032,
+"mase": 1.1297,
 "label": "Weekday mean"
 },
 {
 "model": "ets",
 "n": 4368,
-"mae": 9556.2008,
-"wape": 0.0916,
-"bias": 0.006,
-"mase": 1.2365,
+"mae": 9676.5577,
+"wape": 0.0921,
+"bias": -0.0159,
+"mase": 1.1431,
 "label": "ETS"
 },
 {
 "model": "seasonal_naive",
 "n": 4368,
-"mae": 10413.0286,
-"wape": 0.0998,
-"bias": 0.0115,
-"mase": 1.3386,
+"mae": 10243.2985,
+"wape": 0.0975,
+"bias": -0.0086,
+"mase": 1.2573,
 "label": "Seasonal naive"
 }
 ]
